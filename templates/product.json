@@ -113,6 +113,7 @@
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Garanzia di qualità",
             "icon": "none",
@@ -125,9 +126,9 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Empfehlung zur Kleidergröße",
+            "heading": "Guida alle taglie",
             "icon": "none",
-            "content": "<p>Bei diesem Artikel empfehlen wir, eine Nummer größer zu bestellen! Sind Sie sich unsicher? Dann schauen Sie in die Größentabelle.</p>",
+            "content": "<p>Per questo articolo consigliamo di ordinare una taglia in più! Non siete sicuri? Consultate la tabella delle taglie.</p>",
             "custom_liquid": "",
             "page": "",
             "default_open": false
