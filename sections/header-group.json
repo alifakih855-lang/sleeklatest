@@ -22,7 +22,7 @@
             "text_size": "text-base",
             "font_weight": "font-body",
             "font_style": "normal",
-            "letter_spacing": 0,
+            "letter_spacing": 5,
             "text_opacity": 100,
             "text_style": "normal",
             "use_custom_color": false,
