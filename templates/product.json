@@ -184,9 +184,9 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "text": "<p><em>\"Ich hasse shoppen eigentlich — aber hier nicht.\"</em></p>",
-            "author": "Claudia M., Wien",
-            "bio": "Verifizierter Käufer",
+            "text": "<p>\"In realtà odio fare shopping — ma qui no.\"</p>",
+            "author": "Sofia M., Milano",
+            "bio": "Acquirente verificato",
             "product": "",
             "icon": "none"
           }
@@ -195,9 +195,9 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "text": "<p><em>\"Hab online bestellt weil ich nicht in Wien bin. Kam schnell an, alles perfekt verpackt. Mach ich wieder.\"</em></p>",
-            "author": "Petra H., Bregenz",
-            "bio": "Verifizierter Käufer",
+            "text": "<p>\"Ho ordinato online perché non sono a Roma. È arrivato velocemente, tutto perfettamente imballato. Lo rifarò.\"</p>",
+            "author": "Chiara B., Napoli",
+            "bio": "Acquirente verificato",
             "product": "",
             "icon": "none"
           }
