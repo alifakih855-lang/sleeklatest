@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breadcrumbs_xYaBHj": {
@@ -35,16 +44,18 @@
           "type": "image_card",
           "settings": {
             "color_scheme": "scheme-inverse",
+            "image": "shopify://shop_images/Woman_trying_on_202604141212.jpg",
             "image_overlay_opacity": 0,
-            "heading": "New York",
+            "heading": "SERENA ROMA",
             "heading_size": "h1",
             "subheading": "",
-            "description": "<p>4b/39 James St, Fortitude Valley QLD 4006</p><p>+391 (0)35 2568</p><p>Mon-Sat: 10am-8pm</p>",
-            "button_label": "Get Directions",
+            "description": "",
+            "button_label": "",
             "button_style": "btn--primary",
             "content_position": "bottom-left",
             "content_alignment": "left",
             "content_spacing": "large",
+            "card_link": "",
             "color_scheme_mobile": "scheme-1",
             "show_text_below": true,
             "content_alignment_mobile": "left"
@@ -61,13 +72,15 @@
       ],
       "settings": {
         "section_color_scheme": "",
-        "color_scheme": "scheme-f135f57d-69f6-4c1d-bd3a-40361420ed42",
-        "heading": "Get in Touch",
+        "color_scheme": "scheme-inverse",
+        "heading": "CONTATTI",
         "heading_size": "hd2",
+        "heading_highlight_style": "none",
         "padding_top": 0,
         "padding_bottom": 100,
         "show_section_divider": false,
-        "divider_width": "fixed"
+        "divider_width": "fixed",
+        "custom_class": ""
       }
     }
   },
