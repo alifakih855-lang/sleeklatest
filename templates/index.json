@@ -141,7 +141,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "show_all_button_on_top": true,
-        "button_label": "Alle Artikel",
+        "button_label": "Tutti gli articoli",
         "button_link": "",
         "button_style": "btn--underline",
         "tabs_nav_style": "design-1",
