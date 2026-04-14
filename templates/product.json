@@ -492,8 +492,8 @@
           "type": "collapsible_item",
           "settings": {
             "icon": "none",
-            "heading": "Wie hoch sind die Versandkosten?",
-            "content": "<p>Bei uns profitieren Sie von einer kostenlosen Premium-Lieferung.</p>",
+            "heading": "Quali sono i costi di spedizione?",
+            "content": "<p>Da noi beneficiate di una consegna premium gratuita.</p>",
             "custom_liquid": "",
             "page": "",
             "open": true
@@ -503,8 +503,8 @@
           "type": "collapsible_item",
           "settings": {
             "icon": "none",
-            "heading": "Wie lauten Ihre Rückgabebedingungen?",
-            "content": "<p>Ungewünschte Artikel können innerhalb von 30 Tagen nach Erhalt gegen eine vollständige Rückerstattung oder einen Umtausch zurückgegeben werden. Die Artikel müssen unbenutzt und in der Originalverpackung sein.</p>",
+            "heading": "Quali sono le vostre condizioni di reso?",
+            "content": "<p>Gli articoli indesiderati possono essere restituiti entro 30 giorni dal ricevimento per un rimborso completo o un cambio. Gli articoli devono essere inutilizzati e nella confezione originale.</p>",
             "custom_liquid": "",
             "page": "",
             "open": false
@@ -514,8 +514,8 @@
           "type": "collapsible_item",
           "settings": {
             "icon": "none",
-            "heading": "Wie kann ich meine Bestellung verfolgen?",
-            "content": "<p>Nach dem Versand erhalten Sie eine E-Mail mit der Sendungsverfolgungsnummer. Damit können Sie den Status Ihrer Bestellung über unsere Website verfolgen.</p>",
+            "heading": "Come posso tracciare il mio ordine?",
+            "content": "<p>Dopo la spedizione riceverete un'e-mail con il numero di tracciamento. Con questo potrete seguire lo stato del vostro ordine tramite il nostro sito web.</p>",
             "custom_liquid": "",
             "page": "",
             "open": false
@@ -525,8 +525,8 @@
           "type": "collapsible_item",
           "settings": {
             "icon": "none",
-            "heading": "Noch weitere Fragen?",
-            "content": "<p>Wenn Sie weitere Fragen haben, sehen Sie sich bitte die häufig gestellten Fragen an oder kontaktieren Sie uns über diesen Link: Kontakt</p>",
+            "heading": "Avete altre domande?",
+            "content": "<p>Se avete ulteriori domande, consultate le domande frequenti o contattateci tramite questo link: <a href=\"/pages/contact\" title=\"Contact\">Contatto</a></p>",
             "custom_liquid": "",
             "page": "",
             "open": false
