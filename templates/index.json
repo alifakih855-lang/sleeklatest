@@ -1,1 +1,290 @@
-{"sections":{"image_with_text_overlay_UMjJPr":{"type":"image-with-text-overlay","blocks":{"subheading_YiYiR7":{"type":"subheading","settings":{"subheading":"Alpen Wien"}},"heading_98QAw6":{"type":"heading","settings":{"heading":"Angezogen für die Frau, die Sie bereits sind","heading_size":"h2","heading_highlight_style":"none"}},"text_xtxXcD":{"type":"text","settings":{"text":"<p>Zur Frühjahrskollektion<\/p>","text_size":"text-base"}}},"block_order":["subheading_YiYiR7","heading_98QAw6","text_xtxXcD"],"name":"t:sections.image-with-text-overlay.name","settings":{"container":"full","image":"shopify:\/\/shop_images\/generate-an-image-of-a-popular-street-in-vienna.png","desktop_height":"extra-medium","overlay_opacity":25,"enable_parallax":false,"parallax_direction":"vertical","color_scheme":"","content_position":"bottom-left","content_alignment":"left","mobile_height":"medium","padding_top":0,"padding_bottom":0,"custom_class":""}},"slideshow_q3U4Jn":{"type":"slideshow","blocks":{"slide_JhU8hg":{"type":"slide","settings":{"color_scheme":"scheme-1","background":"shopify:\/\/shop_images\/generate-an-image-of-a-popular-street-in-vienna.png","background_mobile":"shopify:\/\/shop_images\/generate-an-image-of-a-popular-street-in-vienna.png","image_overlay_opacity":0,"show_content_in_container":true,"content_position":"middle-left","content_position_mobile":"middle-center","text_alignment":"center","title":"Get the skin you want to feel","heading_size":"hd1","subheading":"Blend beauty in you","description":"","description_size":"text-base","button_label":"Shop Now","button_link":"","button_style":"btn--primary"}}},"block_order":["slide_JhU8hg"],"disabled":true,"custom_css":["@media (max-width: 767px) {.slideshow__text {margin: 0 auto; }}","@media (min-width: 1200px) {.slideshow__text {max-width: 38rem; }}","@media (min-width: 1280px) {.slideshow__text {padding-inline: 3.2rem; max-width: 46rem; }}"],"settings":{"container":"full","layout":"centered","slide_height":"adapt","show_dots":false,"autoplay":false,"autoplay_delay":5,"controls_position":"below","show_text_below":true,"text_alignment_mobile":"center","accessibility_info":"Slideshow about our brand","custom_class":""}},"product_tabs_iJHLzK":{"type":"product-tabs","blocks":{"tab_Yz8Mnz":{"type":"tab","settings":{"title":"Sale","collection":"summer-printed-dresses"}},"tab_9cGBUe":{"type":"tab","settings":{"title":"Bestseller","collection":"pants"}}},"block_order":["tab_Yz8Mnz","tab_9cGBUe"],"custom_css":[".f-price-item {font-size: 13px;}"],"settings":{"color_scheme":"","header_layout":"horizontal","heading":"","heading_size":"h1","heading_highlight_style":"none","limit":8,"columns":4,"column_gap":"extra-small","row_gap":"inherit","grid_layout":"standard","pcard_image_ratio":"","columns_mobile":"2","swipe_on_mobile":false,"show_all_button_on_top":true,"button_label":"Alle Artikel","button_link":"","button_style":"btn--underline","tabs_nav_style":"design-1","padding_top":100,"padding_bottom":0,"show_section_divider":false,"divider_width":"fixed","custom_class":""}},"highlight_text_with_image_9KLzcX":{"type":"highlight-text-with-image","blocks":{"image_URaWGC":{"type":"image","disabled":true,"settings":{"image_link":"","image_width":220,"image_width_mobile":110}},"image_DyKWHM":{"type":"image","disabled":true,"settings":{"image_link":"","image_width":220,"image_width_mobile":110}},"image_NGQQmW":{"type":"image","disabled":true,"settings":{"image_link":"","image_width":220,"image_width_mobile":110}}},"block_order":["image_URaWGC","image_DyKWHM","image_NGQQmW"],"custom_css":[".highlight-text-with-image {--blocks-radius: 13rem; --blocks-radius-mobile: 13rem;}"],"settings":{"color_scheme":"","text":"Handverlesene Stücke. Ehrliche Beratung. Ein Boutique, das Wienerinnen seit 1987 einkleidet.","heading_size":"hd2","alignment":"center","padding_top":100,"padding_bottom":100,"show_section_divider":false,"divider_width":"fixed","custom_class":""}},"feature_list_T88Dr9":{"type":"feature-list","blocks":{"feature_item_xjy68i":{"type":"feature_item","settings":{"color_scheme":"","icon":"check","icon_style":"btn--secondary","text":"Feature"}},"feature_item_6nmxLg":{"type":"feature_item","settings":{"color_scheme":"","icon":"check","icon_style":"btn--secondary","text":"Feature"}},"feature_item_4ikTMF":{"type":"feature_item","settings":{"color_scheme":"","icon":"check","icon_style":"btn--secondary","text":"Feature"}},"feature_item_XMfef8":{"type":"feature_item","settings":{"color_scheme":"","icon":"check","icon_style":"btn--secondary","text":"Feature"}},"feature_item_gFgnAn":{"type":"feature_item","settings":{"color_scheme":"","icon":"check","icon_style":"btn--secondary","text":"Feature"}}},"block_order":["feature_item_xjy68i","feature_item_6nmxLg","feature_item_4ikTMF","feature_item_XMfef8","feature_item_gFgnAn"],"disabled":true,"name":"Feature list","settings":{"color_scheme":"","subheading":"","heading":"Feature list","heading_size":"h2","heading_highlight_style":"none","description":"","text_size":"text-base","item_alignment":"center","icon_size":"extra-medium","swipe_on_mobile":true,"padding_top":50,"padding_bottom":50,"show_section_divider":false,"divider_width":"fixed","custom_class":""}}},"order":["image_with_text_overlay_UMjJPr","slideshow_q3U4Jn","product_tabs_iJHLzK","highlight_text_with_image_9KLzcX","feature_list_T88Dr9"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_UMjJPr": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_YiYiR7": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "SERENA ROMA"
+          }
+        },
+        "heading_98QAw6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vestita per la donna che sei già",
+            "heading_size": "h2",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_xtxXcD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Alla collezione primavera</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_YiYiR7",
+        "heading_98QAw6",
+        "text_xtxXcD"
+      ],
+      "name": "t:sections.image-with-text-overlay.name",
+      "settings": {
+        "container": "full",
+        "desktop_height": "extra-medium",
+        "overlay_opacity": 25,
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "color_scheme": "",
+        "content_position": "bottom-left",
+        "content_alignment": "left",
+        "mobile_height": "medium",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "slideshow_q3U4Jn": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_JhU8hg": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "image_overlay_opacity": 0,
+            "show_content_in_container": true,
+            "content_position": "middle-left",
+            "content_position_mobile": "middle-center",
+            "text_alignment": "center",
+            "title": "Get the skin you want to feel",
+            "heading_size": "hd1",
+            "subheading": "Blend beauty in you",
+            "description": "",
+            "description_size": "text-base",
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "slide_JhU8hg"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media (max-width: 767px) {.slideshow__text {margin: 0 auto; }}",
+        "@media (min-width: 1200px) {.slideshow__text {max-width: 38rem; }}",
+        "@media (min-width: 1280px) {.slideshow__text {padding-inline: 3.2rem; max-width: 46rem; }}"
+      ],
+      "settings": {
+        "container": "full",
+        "layout": "centered",
+        "slide_height": "adapt",
+        "show_dots": false,
+        "autoplay": false,
+        "autoplay_delay": 5,
+        "controls_position": "below",
+        "show_text_below": true,
+        "text_alignment_mobile": "center",
+        "accessibility_info": "Slideshow about our brand",
+        "custom_class": ""
+      }
+    },
+    "product_tabs_iJHLzK": {
+      "type": "product-tabs",
+      "blocks": {
+        "tab_Yz8Mnz": {
+          "type": "tab",
+          "settings": {
+            "title": "Saldi",
+            "collection": "summer-printed-dresses"
+          }
+        },
+        "tab_9cGBUe": {
+          "type": "tab",
+          "settings": {
+            "title": "Bestseller",
+            "collection": "pants"
+          }
+        }
+      },
+      "block_order": [
+        "tab_Yz8Mnz",
+        "tab_9cGBUe"
+      ],
+      "custom_css": [
+        ".f-price-item {font-size: 13px;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "header_layout": "horizontal",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": "extra-small",
+        "row_gap": "inherit",
+        "grid_layout": "standard",
+        "pcard_image_ratio": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "show_all_button_on_top": true,
+        "button_label": "Alle Artikel",
+        "button_link": "",
+        "button_style": "btn--underline",
+        "tabs_nav_style": "design-1",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
+    "highlight_text_with_image_9KLzcX": {
+      "type": "highlight-text-with-image",
+      "blocks": {
+        "image_URaWGC": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_link": "",
+            "image_width": 220,
+            "image_width_mobile": 110
+          }
+        },
+        "image_DyKWHM": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_link": "",
+            "image_width": 220,
+            "image_width_mobile": 110
+          }
+        },
+        "image_NGQQmW": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_link": "",
+            "image_width": 220,
+            "image_width_mobile": 110
+          }
+        }
+      },
+      "block_order": [
+        "image_URaWGC",
+        "image_DyKWHM",
+        "image_NGQQmW"
+      ],
+      "custom_css": [
+        ".highlight-text-with-image {--blocks-radius: 13rem; --blocks-radius-mobile: 13rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "text": "Pezzi selezionati a mano. Consulenza onesta. Una boutique che veste le donne di Roma dal 1997.",
+        "heading_size": "hd2",
+        "alignment": "center",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
+    "feature_list_T88Dr9": {
+      "type": "feature-list",
+      "blocks": {
+        "feature_item_xjy68i": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "check",
+            "icon_style": "btn--secondary",
+            "text": "Feature"
+          }
+        },
+        "feature_item_6nmxLg": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "check",
+            "icon_style": "btn--secondary",
+            "text": "Feature"
+          }
+        },
+        "feature_item_4ikTMF": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "check",
+            "icon_style": "btn--secondary",
+            "text": "Feature"
+          }
+        },
+        "feature_item_XMfef8": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "check",
+            "icon_style": "btn--secondary",
+            "text": "Feature"
+          }
+        },
+        "feature_item_gFgnAn": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "check",
+            "icon_style": "btn--secondary",
+            "text": "Feature"
+          }
+        }
+      },
+      "block_order": [
+        "feature_item_xjy68i",
+        "feature_item_6nmxLg",
+        "feature_item_4ikTMF",
+        "feature_item_XMfef8",
+        "feature_item_gFgnAn"
+      ],
+      "disabled": true,
+      "name": "Feature list",
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "Feature list",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "description": "",
+        "text_size": "text-base",
+        "item_alignment": "center",
+        "icon_size": "extra-medium",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_UMjJPr",
+    "slideshow_q3U4Jn",
+    "product_tabs_iJHLzK",
+    "highlight_text_with_image_9KLzcX",
+    "feature_list_T88Dr9"
+  ]
+}
