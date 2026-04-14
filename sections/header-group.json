@@ -51,7 +51,6 @@
     },
     "header": {
       "type": "header",
-      "disabled": true,
       "settings": {
         "container": "fixed",
         "color_scheme": "scheme-1",
