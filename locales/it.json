@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -386,7 +395,7 @@
       "estimated_total": "Totale stimato",
       "new_estimated_total": "Nuovo totale stimato",
       "note": "Ordina istruzioni speciali",
-      "checkout": "Guardare",
+      "checkout": "COMPLETA IL TUO ORDINE",
       "empty": "Il carrello è vuoto.",
       "cart_error": "Si è verificato un errore durante l'aggiornamento del carrello. Per favore riprova.",
       "cart_quantity_error_html": "Puoi aggiungere solo {{ quantity }} di questo articolo al tuo carrello.",
