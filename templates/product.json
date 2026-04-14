@@ -206,9 +206,9 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "text": "<p>\"Bin zufällig reingekommen und eine Stunde geblieben. Die Beratung war wirklich gut.\"</p>",
-            "author": "Monika S., Wien",
-            "bio": "Verifizierter Käufer",
+            "text": "<p>\"Sono entrata per caso e sono rimasta un'ora. La consulenza era davvero ottima.\"</p>",
+            "author": "Francesca S., Roma",
+            "bio": "Acquirente verificato",
             "product": "",
             "icon": "none"
           }
