@@ -114,9 +114,9 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Qualitätsgarantie",
+            "heading": "Garanzia di qualità",
             "icon": "none",
-            "content": "<p>Für uns stehen Qualität und Kundenzufriedenheit an erster Stelle. Wir bieten ausschließlich Produkte von höchster Qualität an, denn wir sind der Meinung, dass Sie nur das Beste verdienen. Jedes Produkt wird sorgfältig ausgewählt und geprüft, um sicherzustellen, dass es unseren strengen Standards entspricht.</p>",
+            "content": "<p>Per noi la qualità e la soddisfazione del cliente vengono prima di tutto. Offriamo esclusivamente prodotti della massima qualità, perché siamo convinti che voi meritiate solo il meglio. Ogni prodotto viene accuratamente selezionato e testato per garantire che soddisfi i nostri rigorosi standard.</p>",
             "custom_liquid": "",
             "page": "",
             "default_open": false
