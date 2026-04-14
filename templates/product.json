@@ -169,13 +169,13 @@
     "testimonials_8JHr3L": {
       "type": "testimonials",
       "blocks": {
-        "testimonial_TtpjJx": {
+        "testimonial_XetKiN": {
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/Woman_smiling_in_202604141208.jpg",
-            "text": "<p>\"Non il più economico, ma la differenza si nota subito.\"</p>",
-            "author": "Giulia R., Roma",
+            "image": "shopify://shop_images/Woman_trying_on_202604142034.jpg",
+            "text": "<p>\"Ho ordinato online perché non sono a Roma. È arrivato velocemente, tutto perfettamente imballato. Lo rifarò.\"</p>",
+            "author": "Chiara B., Napoli",
             "bio": "Acquirente verificato",
             "product": "",
             "icon": "none"
@@ -193,13 +193,13 @@
             "icon": "none"
           }
         },
-        "testimonial_XetKiN": {
+        "testimonial_TtpjJx": {
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/Woman_trying_on_202604141207.jpg",
-            "text": "<p>\"Ho ordinato online perché non sono a Roma. È arrivato velocemente, tutto perfettamente imballato. Lo rifarò.\"</p>",
-            "author": "Chiara B., Napoli",
+            "image": "shopify://shop_images/Woman_smiling_in_202604141208.jpg",
+            "text": "<p>\"Non il più economico, ma la differenza si nota subito.\"</p>",
+            "author": "Giulia R., Roma",
             "bio": "Acquirente verificato",
             "product": "",
             "icon": "none"
@@ -209,7 +209,7 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/Woman_trying_on_202604141212.jpg",
+            "image": "shopify://shop_images/Woman_trying_on_202604142037.jpg",
             "text": "<p>\"Sono entrata per caso e sono rimasta un'ora. La consulenza era davvero ottima.\"</p>",
             "author": "Francesca S., Roma",
             "bio": "Acquirente verificato",
@@ -219,9 +219,9 @@
         }
       },
       "block_order": [
-        "testimonial_TtpjJx",
-        "testimonial_fKmgTH",
         "testimonial_XetKiN",
+        "testimonial_fKmgTH",
+        "testimonial_TtpjJx",
         "testimonial_dhi3Xf"
       ],
       "custom_css": [],
