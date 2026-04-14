@@ -209,6 +209,7 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
+            "image": "shopify://shop_images/Woman_trying_on_202604141212.jpg",
             "text": "<p>\"Sono entrata per caso e sono rimasta un'ora. La consulenza era davvero ottima.\"</p>",
             "author": "Francesca S., Roma",
             "bio": "Acquirente verificato",
