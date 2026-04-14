@@ -80,7 +80,7 @@
         "custom_liquid_FQnFTH": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"product__block product__block--custom_liquid\">\n            <div class=\"product-info__liquid\">\n  <div id=\"ss-product-coupon-2\"></div>\n  <div class=\"coupon-box\" style=\"background-color: #b3c6c6; padding: 12px 15px; border-left: 4px solid #2A555A; border-radius: 5px;\">\n    \n    <p style=\"font-size: 11px; font-weight: 500; line-height: 1.6; color: #333;\">\n      <strong>Anmerkung : </strong>Einige unserer Bestseller sind schnell ausverkauft. Solange die Schaltfläche „In den Warenkorb“ sichtbar ist, ist der Artikel verfügbar.\n    </p>\n\n  </div>\n</div>\n          </div>"
+            "custom_liquid": "<div class=\"product__block product__block--custom_liquid\">\n            <div class=\"product-info__liquid\">\n  <div id=\"ss-product-coupon-2\"></div>\n  <div class=\"coupon-box\" style=\"background-color: #b3c6c6; padding: 12px 15px; border-left: 4px solid #2A555A; border-radius: 5px;\">\n    \n    <p style=\"font-size: 11px; font-weight: 500; line-height: 1.6; color: #333;\">\n      <strong> Nota:</strong> Alcuni dei nostri bestseller si esauriscono rapidamente. Finché il pulsante \"Aggiungi al carrello\" è visibile, l'articolo è disponibile.\n    </p>\n\n  </div>\n</div>\n          </div>"
           }
         },
         "description": {
