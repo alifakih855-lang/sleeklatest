@@ -48,7 +48,7 @@
             "block_width": 18,
             "heading": "Shop",
             "heading_size": "h4",
-            "menu": "footer",
+            "menu": "main-menu",
             "open_default": false,
             "show_divider": false
           }
