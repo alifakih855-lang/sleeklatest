@@ -43,7 +43,7 @@
       "settings": {
         "container": "full",
         "image": "shopify://shop_images/A_warm__sunlit_202604141142.jpg",
-        "desktop_height": "medium",
+        "desktop_height": "extra-medium",
         "overlay_opacity": 25,
         "enable_parallax": false,
         "parallax_direction": "vertical",
