@@ -17,12 +17,12 @@
         "text_niHbzP": {
           "type": "text",
           "settings": {
-            "text": "<b>LIQUIDAZIONE PER TRASLOCO – 70% DI SCONTO – TERMINA A MEZZANOTTE</b>",
+            "text": "<b>LIQUIDAZIONE PER TRASLOCO– 70% DI SCONTO – TERMINA A MEZZANOTTE</b>",
             "text_link": "",
             "text_size": "text-base",
             "font_weight": "font-body",
             "font_style": "normal",
-            "letter_spacing": 5,
+            "letter_spacing": 0,
             "text_opacity": 100,
             "text_style": "normal",
             "use_custom_color": false,
@@ -39,7 +39,7 @@
         "vertical_alignment": "center",
         "direction": "left",
         "pause_on_hover": false,
-        "speed": 0.4,
+        "speed": 0.3,
         "h_spacing": 60,
         "v_spacing": 0,
         "padding_top": 12,
