@@ -33,7 +33,6 @@
         },
         "badges": {
           "type": "badges",
-          "disabled": true,
           "settings": {
             "show_soldout_badge": true,
             "show_sale_badge": true,
@@ -524,6 +523,40 @@
         "custom_class": ""
       }
     },
+    "rich_text_CzJmCa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JX9mpi": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h3",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_qV4B4c": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><strong>Acquista 2, Ottieni Extra 20% DI SCONTO<br/><br/>Acquista 3, Ottieni Extra 25% DI SCONTO<br/><br/>Acquista 4, Ottieni Extra 30% DI SCONTO<br/><br/>Acquista 5, Ottieni Extra 35% DI SCONTO</strong></h4>",
+            "text_size": "text-inherit"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JX9mpi",
+        "text_qV4B4c"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "scheme-inverse",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
     "collapsible_tabs_phAkEE": {
       "type": "collapsible-tabs",
       "blocks": {
@@ -773,6 +806,7 @@
     "rich_text_7rBwdd",
     "image_with_text_MgddA8",
     "multicolumn_Mxt4d3",
+    "rich_text_CzJmCa",
     "collapsible_tabs_phAkEE",
     "scrolling_promotion_WAekUk",
     "feature_list_EWmb3m"
