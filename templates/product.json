@@ -31,10 +31,6 @@
             "heading_size": "h2"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {}
-        },
         "badges": {
           "type": "badges",
           "settings": {
@@ -42,6 +38,10 @@
             "show_sale_badge": true,
             "sale_badge_type": "percentage"
           }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
         },
         "icon_with_text": {
           "type": "icon-with-text",
@@ -137,8 +137,8 @@
       "block_order": [
         "custom_liquid_iwjREe",
         "title",
-        "price",
         "badges",
+        "price",
         "icon_with_text",
         "variant_picker",
         "buy_buttons",
