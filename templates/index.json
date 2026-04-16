@@ -42,7 +42,7 @@
       "name": "t:sections.image-with-text-overlay.name",
       "settings": {
         "container": "full",
-        "image": "shopify://shop_images/A_warm__sunlit_202604141142.jpg",
+        "image": "shopify://shop_images/A_candid__realistic_202604161546.jpg",
         "desktop_height": "extra-medium",
         "overlay_opacity": 25,
         "enable_parallax": false,
@@ -50,7 +50,7 @@
         "color_scheme": "",
         "content_position": "bottom-left",
         "content_alignment": "left",
-        "image_mobile": "shopify://shop_images/A_warm__sunlit_202604141142.jpg",
+        "image_mobile": "shopify://shop_images/A_candid__realistic_202604161546.jpg",
         "mobile_height": "small",
         "padding_top": 0,
         "padding_bottom": 0,
