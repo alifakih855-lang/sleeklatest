@@ -83,7 +83,7 @@
       "name": "t:sections.image-with-text-overlay.name",
       "settings": {
         "container": "full",
-        "image": "shopify://shop_images/Liquidazione_per_trasloco_70_di_sconto_termina_a_mezzanotte_3.png",
+        "image": "shopify://shop_images/Liquidazione_per_trasloco_70_di_sconto_termina_a_mezzanotte_2.png",
         "desktop_height": "adapt",
         "overlay_opacity": 0,
         "enable_parallax": false,
