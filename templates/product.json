@@ -248,6 +248,40 @@
         "custom_class": ""
       }
     },
+    "rich_text_GjhrBp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tw8MMi": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>SU SERENA ROMA</strong>",
+            "heading_size": "hd3",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_WpgxVt": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>L'eleganza non è ciò che attira l'attenzione, ma ciò che rimane nella memoria.\"</em></p><p>Dal 1998, Serena Roma rappresenta il design senza tempo e la raffinatezza discreta. Le nostre collezioni riflettono una dedizione alla qualità artigianale, ai dettagli curati e a una moderna interpretazione dello stile classico — ispirata dal ritmo e dalla raffinatezza di Roma.</p>",
+            "text_size": "text-inherit"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tw8MMi",
+        "text_WpgxVt"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "scheme-inverse",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
     "image_with_text_NwdB6R": {
       "type": "image-with-text",
       "blocks": {
@@ -733,6 +767,7 @@
     "breadcrumbs",
     "main",
     "testimonials_8JHr3L",
+    "rich_text_GjhrBp",
     "image_with_text_NwdB6R",
     "related-products",
     "rich_text_7rBwdd",
