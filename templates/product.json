@@ -284,6 +284,12 @@
     "image_with_text_NwdB6R": {
       "type": "image-with-text",
       "blocks": {
+        "subheading_ttm4KV": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "AVVISO IMPORTANTE"
+          }
+        },
         "heading_3rFe6a": {
           "type": "heading",
           "settings": {
@@ -295,12 +301,13 @@
         "text_bcdYPf": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Con il cuore pesante</strong>, chiudo il mio negozio, costruito con il supporto di mio marito. Tuttavia, per circostanze personali, dobbiamo ora occuparci dell'attività di famiglia. <br/><br/>Per smaltire la merce rimanente, organizzo una grande svendita di chiusura con <strong>sconti fino all'80%</strong>. Non perdete l'occasione – una volta esauriti, non ci saranno più!</p>",
+            "text": "<p>\"<strong>Con il cuore pesante</strong>, devo comunicarvi che Serena Roma chiuderà i battenti a causa del mio pensionamento. Questa decisione non è stata facile. <br/><br/>Lasciare il lavoro di una vita non è mai semplice, ma credo che sia giunto il momento. Non posso più mantenere gli standard di eccellenza che meritate.\"<br/><br/>Come commiato e un sincero ringraziamento per la vostra fedeltà nel corso degli anni, offriamo i nostri ultimi pezzi artigianali a prezzi eccezionali. Inoltre, rimborseremo l'intero importo di <strong>ogni 10° ordine effettuato</strong>. Assicuratevi un pezzo della storia di Serena Roma prima che sparisca per sempre.<br/><br/>-<strong> SERENA ROSSI</strong><br/>Fondatrice & Stilista</p>",
             "text_size": "text-base"
           }
         }
       },
       "block_order": [
+        "subheading_ttm4KV",
         "heading_3rFe6a",
         "text_bcdYPf"
       ],
