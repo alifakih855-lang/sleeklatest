@@ -564,6 +564,40 @@
         "custom_class": ""
       }
     },
+    "rich_text_aatrkW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8wpKhx": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Ultima occasione per assicurarveli, prima che spariscano per sempre!</strong>",
+            "heading_size": "h4",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_YNfBmp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lo sconto viene applicato automaticamente al momento del pagamento e gli articoli possono essere combinati</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8wpKhx",
+        "text_YNfBmp"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "scheme-8",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
     "collapsible_tabs_phAkEE": {
       "type": "collapsible-tabs",
       "blocks": {
@@ -826,6 +860,7 @@
     "image_with_text_MgddA8",
     "multicolumn_Mxt4d3",
     "rich_text_CzJmCa",
+    "rich_text_aatrkW",
     "collapsible_tabs_phAkEE",
     "scrolling_promotion_WAekUk",
     "feature_list_EWmb3m"
