@@ -280,6 +280,10 @@
         "divider_width": "fixed",
         "custom_class": ""
       }
+    },
+    "177634447658e7cb60": {
+      "type": "_blocks",
+      "settings": {}
     }
   },
   "order": [
@@ -287,6 +291,7 @@
     "slideshow_q3U4Jn",
     "product_tabs_iJHLzK",
     "highlight_text_with_image_9KLzcX",
-    "feature_list_T88Dr9"
+    "feature_list_T88Dr9",
+    "177634447658e7cb60"
   ]
 }
