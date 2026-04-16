@@ -567,6 +567,17 @@
     "collapsible_tabs_phAkEE": {
       "type": "collapsible-tabs",
       "blocks": {
+        "collapsible_item_Yp4f9j": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "Cosa significa \"Rimborsiamo Ogni 10° Ordine\"?",
+            "content": "<p>Ogni 10° ordine effettuato riceverà un rimborso completo dell'intero importo pagato. È il nostro modo di ringraziare i clienti fedeli per il loro supporto nel corso degli anni.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": true
+          }
+        },
         "collapsible_item_eFemDY": {
           "type": "collapsible_item",
           "settings": {
@@ -613,6 +624,7 @@
         }
       },
       "block_order": [
+        "collapsible_item_Yp4f9j",
         "collapsible_item_eFemDY",
         "collapsible_item_RQ3WzW",
         "collapsible_item_aKpRFm",
