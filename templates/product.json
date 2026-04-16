@@ -250,10 +250,16 @@
     "rich_text_GjhrBp": {
       "type": "rich-text",
       "blocks": {
+        "subheading_gUNRwN": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Su Serena Roma"
+          }
+        },
         "heading_tw8MMi": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>SU SERENA ROMA</strong>",
+            "heading": "<em>L'eleganza non è ciò che attira l'attenzione, ma ciò che rimane nella memoria.\"</em>",
             "heading_size": "hd3",
             "heading_highlight_style": "none"
           }
@@ -261,12 +267,13 @@
         "text_WpgxVt": {
           "type": "text",
           "settings": {
-            "text": "<p><em>L'eleganza non è ciò che attira l'attenzione, ma ciò che rimane nella memoria.\"</em></p><p>Dal 1998, Serena Roma rappresenta il design senza tempo e la raffinatezza discreta. Le nostre collezioni riflettono una dedizione alla qualità artigianale, ai dettagli curati e a una moderna interpretazione dello stile classico — ispirata dal ritmo e dalla raffinatezza di Roma.</p>",
+            "text": "<p></p><p>Dal 1998, Serena Roma rappresenta il design senza tempo e la raffinatezza discreta. Le nostre collezioni riflettono una dedizione alla qualità artigianale, ai dettagli curati e a una moderna interpretazione dello stile classico — ispirata dal ritmo e dalla raffinatezza di Roma.</p>",
             "text_size": "text-inherit"
           }
         }
       },
       "block_order": [
+        "subheading_gUNRwN",
         "heading_tw8MMi",
         "text_WpgxVt"
       ],
