@@ -76,6 +76,12 @@
             "show_gift_card_recipient": false
           }
         },
+        "custom_liquid_XCXhUt": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"giraffly-trust-badge-695bf223d6d57-17216724-911767633443\"></div>"
+          }
+        },
         "custom_liquid_FQnFTH": {
           "type": "custom_liquid",
           "settings": {
@@ -142,6 +148,7 @@
         "icon_with_text",
         "variant_picker",
         "buy_buttons",
+        "custom_liquid_XCXhUt",
         "custom_liquid_FQnFTH",
         "description",
         "inventory",
