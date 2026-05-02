@@ -128,6 +128,11 @@
         "type": "shopify://apps/seowill-trust-badges/blocks/trust_core/f42f2346-5d14-4b41-a8b9-4b6ee352262e",
         "disabled": false,
         "settings": {}
+      },
+      "10312807297210203588": {
+        "type": "shopify://apps/rokt-aftersell/blocks/utm-triggers/509ec35d-0632-4dfc-a105-fa799cd9d149",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
