@@ -326,7 +326,8 @@
       "settings": {
         "section_color_scheme": "",
         "color_scheme": "",
-        "image_height": "large",
+        "image": "shopify://shop_images/download_10.png",
+        "image_height": "medium",
         "layout": "image_first",
         "desktop_content_position": "center",
         "desktop_content_alignment": "center",
@@ -674,6 +675,7 @@
         "collapsible_item_aKpRFm",
         "collapsible_item_3c4PkF"
       ],
+      "disabled": true,
       "settings": {
         "container": "narrow",
         "color_scheme": "",
