@@ -298,13 +298,13 @@
         "subheading_ttm4KV": {
           "type": "subheading",
           "settings": {
-            "subheading": "AVISO IMPORTANTE"
+            "subheading": "AVVISO IMPORTANTE"
           }
         },
         "heading_3rFe6a": {
           "type": "heading",
           "settings": {
-            "heading": "REEMBOLSAMOS CADA 10.º PEDIDO",
+            "heading": "RIMBORSIAMO OGNI 10° ORDINE",
             "heading_size": "h3",
             "heading_highlight_style": "none"
           }
@@ -348,7 +348,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-1",
-        "heading": "Combine e poupe mais <strong>15%</strong>",
+        "heading": "Combina e risparmia un ulteriore <strong>20%</strong>",
         "heading_size": "h2",
         "heading_highlight_style": "none",
         "subheading": "",
@@ -555,7 +555,7 @@
         "text_qV4B4c": {
           "type": "text",
           "settings": {
-            "text": "<h4>Compre 2, Receba <strong>Extra 15% DE DESCONTO</strong><br/><br/>Compre 3, Receba <strong>Extra 20% DE DESCONTO</strong><br/><br/>Compre 4, Receba <strong>Extra 25% DE DESCONTO</strong><br/><br/>Compre 5, Receba<strong> Extra 30% DE DESCONTO</strong></h4>",
+            "text": "<h5><strong>Acquista 2, Ottieni Extra 20% DI SCONTO<br/>Acquista 3, Ottieni Extra 25% DI SCONTO<br/>Acquista 4, Ottieni Extra 30% DI SCONTO<br/>Acquista 5, Ottieni Extra 35% DI SCONTO</strong></h5>",
             "text_size": "text-inherit"
           }
         }
