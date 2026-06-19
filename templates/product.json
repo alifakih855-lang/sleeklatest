@@ -326,6 +326,7 @@
       "settings": {
         "section_color_scheme": "",
         "color_scheme": "",
+        "image": "shopify://shop_images/download_4.png",
         "image_height": "medium",
         "layout": "image_first",
         "desktop_content_position": "center",
