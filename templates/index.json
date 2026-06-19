@@ -42,7 +42,6 @@
       "name": "t:sections.image-with-text-overlay.name",
       "settings": {
         "container": "full",
-        "image": "shopify://shop_images/A_candid__realistic_202604161546.jpg",
         "desktop_height": "extra-medium",
         "overlay_opacity": 25,
         "enable_parallax": false,
@@ -50,7 +49,6 @@
         "color_scheme": "",
         "content_position": "bottom-left",
         "content_alignment": "left",
-        "image_mobile": "shopify://shop_images/A_candid__realistic_202604161546.jpg",
         "mobile_height": "small",
         "padding_top": 0,
         "padding_bottom": 0,
@@ -195,7 +193,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "text": "Pezzi selezionati a mano. Consulenza onesta. Una boutique che veste le donne di Roma dal 2022.",
+        "text": "Peças selecionadas à mão. Aconselhamento honesto. Uma boutique que veste as mulheres de Lisboa desde 2015.",
         "heading_size": "hd2",
         "alignment": "center",
         "padding_top": 100,
