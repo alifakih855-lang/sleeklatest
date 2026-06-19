@@ -50,11 +50,11 @@
             "title_font": "body",
             "title_size": "text-base",
             "icon_1": "package",
-            "heading_1": "Envio gratuito com <strong>CTT</strong>",
+            "heading_1": "Spedizione gratuita con<strong> Poste Italiane</strong>",
             "icon_2": "currency-circle-dollar",
-            "heading_2": "Garantia de reembolso de <strong>30 dias</strong>",
+            "heading_2": "Garanzia di rimborso di <strong>30 giorni</strong>",
             "icon_3": "arrow-up-left",
-            "heading_3": "Pague em segurança com <strong>Multibanco</strong>"
+            "heading_3": "Paga in sicurezza con<strong> Carta di credito</strong>"
           }
         },
         "variant_picker": {
@@ -180,7 +180,6 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/download_5.png",
             "text": "<p>\"Fiquei completamente apaixonada por este conjunto. A camisola é macia e quentinha, o lenço dá um toque de cor sofisticado e a mala é o complemento perfeito — prática e elegante ao mesmo tempo. Qualidade impecável, exatamente como nas fotografias.\"</p>",
             "author": "Margarida S.",
             "bio": "Comprador verificado",
@@ -192,7 +191,6 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/download_8.png",
             "text": "<p>\"Adorei este blazer de linho! O corte é perfeito, nem muito justo nem largo, e o tecido é leve para o verão mas com aquele toque de qualidade que se nota logo. Vesti com jeans e ficou impecável para o dia a dia. Já é a minha peça favorita do guarda-roupa.\"</p>",
             "author": "Teresa M.",
             "bio": "Comprador verificado",
@@ -204,7 +202,6 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/download_6.png",
             "text": "<p>\"A experiência desde a encomenda até à entrega foi impecável. A peça veio embrulhada com tanto cuidado, em papel de seda, que parecia um presente. O linho é de excelente qualidade e o corte é muito favorecedor. Entrega rápida e tudo perfeito.\"</p>",
             "author": "Helena F.",
             "bio": "Comprador verificado",
@@ -216,7 +213,6 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/download_7.png",
             "text": "<p>\"Comprei este lenço de presente para uma amiga e foi um sucesso total! As cores são lindíssimas e o tecido tem um toque suave, muito elegante. O embrulho veio cuidado, com aquele detalhe especial que faz toda a diferença. Voltarei de certeza.\"</p>",
             "author": "Cristina R.",
             "bio": "Comprador verificado",
@@ -330,7 +326,6 @@
       "settings": {
         "section_color_scheme": "",
         "color_scheme": "",
-        "image": "shopify://shop_images/download_4.png",
         "image_height": "large",
         "layout": "image_first",
         "desktop_content_position": "center",
