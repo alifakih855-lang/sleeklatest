@@ -180,31 +180,10 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "text": "<p>\"Ho ordinato online perché non sono a Roma. È arrivato velocemente, tutto perfettamente imballato. Lo rifarò.\"</p>",
-            "author": "Chiara B., Napoli",
-            "bio": "Acquirente verificato",
-            "product": "",
-            "icon": "none"
-          }
-        },
-        "testimonial_fKmgTH": {
-          "type": "testimonial",
-          "settings": {
-            "show_image": true,
-            "text": "<p>\"In realtà odio fare shopping — ma qui no.\"</p>",
-            "author": "Sofia M., Milano",
-            "bio": "Acquirente verificato",
-            "product": "",
-            "icon": "none"
-          }
-        },
-        "testimonial_TtpjJx": {
-          "type": "testimonial",
-          "settings": {
-            "show_image": true,
-            "text": "<p>\"Non il più economico, ma la differenza si nota subito.\"</p>",
-            "author": "Giulia R., Roma",
-            "bio": "Acquirente verificato",
+            "image": "shopify://shop_images/download_5.png",
+            "text": "<p>\"Fiquei completamente apaixonada por este conjunto. A camisola é macia e quentinha, o lenço dá um toque de cor sofisticado e a mala é o complemento perfeito — prática e elegante ao mesmo tempo. Qualidade impecável, exatamente como nas fotografias.\"</p>",
+            "author": "Margarida S.",
+            "bio": "Comprador verificado",
             "product": "",
             "icon": "none"
           }
@@ -213,9 +192,34 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "text": "<p>\"Sono entrata per caso e sono rimasta un'ora. La consulenza era davvero ottima.\"</p>",
-            "author": "Francesca S., Roma",
-            "bio": "Acquirente verificato",
+            "image": "shopify://shop_images/download_8.png",
+            "text": "<p>\"Adorei este blazer de linho! O corte é perfeito, nem muito justo nem largo, e o tecido é leve para o verão mas com aquele toque de qualidade que se nota logo. Vesti com jeans e ficou impecável para o dia a dia. Já é a minha peça favorita do guarda-roupa.\"</p>",
+            "author": "Teresa M.",
+            "bio": "Comprador verificado",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_fKmgTH": {
+          "type": "testimonial",
+          "settings": {
+            "show_image": true,
+            "image": "shopify://shop_images/download_6.png",
+            "text": "<p>\"A experiência desde a encomenda até à entrega foi impecável. A peça veio embrulhada com tanto cuidado, em papel de seda, que parecia um presente. O linho é de excelente qualidade e o corte é muito favorecedor. Entrega rápida e tudo perfeito.\"</p>",
+            "author": "Helena F.",
+            "bio": "Comprador verificado",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_TtpjJx": {
+          "type": "testimonial",
+          "settings": {
+            "show_image": true,
+            "image": "shopify://shop_images/download_7.png",
+            "text": "<p>\"Comprei este lenço de presente para uma amiga e foi um sucesso total! As cores são lindíssimas e o tecido tem um toque suave, muito elegante. O embrulho veio cuidado, com aquele detalhe especial que faz toda a diferença. Voltarei de certeza.\"</p>",
+            "author": "Cristina R.",
+            "bio": "Comprador verificado",
             "product": "",
             "icon": "none"
           }
@@ -223,9 +227,9 @@
       },
       "block_order": [
         "testimonial_XetKiN",
+        "testimonial_dhi3Xf",
         "testimonial_fKmgTH",
-        "testimonial_TtpjJx",
-        "testimonial_dhi3Xf"
+        "testimonial_TtpjJx"
       ],
       "custom_css": [],
       "settings": {
