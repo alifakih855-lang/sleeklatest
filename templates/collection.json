@@ -83,6 +83,7 @@
       "name": "t:sections.image-with-text-overlay.name",
       "settings": {
         "container": "full",
+        "image": "shopify://shop_images/2_artigos_15_de_desconto_3_artigos_20_de_desconto_4_artigos_25_de_desconto_1.png",
         "desktop_height": "adapt",
         "overlay_opacity": 0,
         "enable_parallax": false,
@@ -90,6 +91,7 @@
         "color_scheme": "",
         "content_position": "middle-left",
         "content_alignment": "left",
+        "image_mobile": "shopify://shop_images/2_artigos_15_de_desconto_3_artigos_20_de_desconto_4_artigos_25_de_desconto_1.png",
         "mobile_height": "auto",
         "padding_top": 0,
         "padding_bottom": 0,
@@ -110,7 +112,7 @@
         "text_WckH8K": {
           "type": "text",
           "settings": {
-            "text": "<p>Estamos a abrir um novo capítulo. A Inês e Beatriz vai mudar de instalações – e antes de deixarmos este espaço para trás, despedimo-nos das últimas peças da nossa coleção atual.</p><p>Muitos artigos não voltarão e vários tamanhos estão já bastante limitados. Esta é a tua última oportunidade para garantir as nossas peças mais desejadas.</p><p>Aproveita descontos acumulados de até 80% em peças selecionadas.<br/><br/>Garante descontos adicionais: <br/><br/><strong>2 artigos = 15% de desconto <br/>3 artigos = 20% de desconto <br/>4 artigos = 25% de desconto</strong></p><p>Não é necessário código – o desconto é aplicado automaticamente no checkout.</p><p>Coloca os teus favoritos no carrinho e vê o preço descer de imediato.</p><p>Com amor, Inês e Beatriz</p>",
+            "text": "<p>Estamos a abrir um novo capítulo. A Inês e Beatriz vai mudar de instalações – e antes de deixarmos este espaço para trás, despedimo-nos das últimas peças da nossa coleção atual.</p><p>Muitos artigos não voltarão e vários tamanhos estão já bastante limitados. Esta é a tua última oportunidade para garantir as nossas peças mais desejadas.</p><p>Aproveita descontos acumulados de até <strong>80%</strong> em peças selecionadas.<br/><br/>Garante descontos adicionais: <br/><br/><strong>2 artigos = 15% de desconto <br/>3 artigos = 20% de desconto <br/>4 artigos = 25% de desconto</strong></p><p>Não é necessário código – o desconto é aplicado automaticamente no checkout.</p><p>Coloca os teus favoritos no carrinho e vê o preço descer de imediato.</p><p>Com amor, <strong>Inês e Beatriz</strong></p>",
             "text_size": "text-base"
           }
         },
