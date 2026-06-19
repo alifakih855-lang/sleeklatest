@@ -807,7 +807,7 @@
             "color_scheme": "",
             "icon": "truck",
             "icon_style": "btn--secondary",
-            "text": "Spedizione gratuita"
+            "text": "Envio gratuito"
           }
         },
         "feature_item_bEzMqR": {
@@ -816,7 +816,7 @@
             "color_scheme": "",
             "icon": "currency-circle-dollar",
             "icon_style": "btn--secondary",
-            "text": "Reso entro 60 giorni"
+            "text": "Devolução no prazo de 30 dias"
           }
         },
         "feature_item_GLraDd": {
@@ -825,7 +825,7 @@
             "color_scheme": "",
             "icon": "seal-check",
             "icon_style": "btn--secondary",
-            "text": "Pagamenti sicuri"
+            "text": "Pagamentos seguros"
           }
         },
         "feature_item_rcBfme": {
@@ -834,7 +834,7 @@
             "color_scheme": "",
             "icon": "heart",
             "icon_style": "btn--secondary",
-            "text": "Servizio clienti 24 ore su 24"
+            "text": "Atendimento ao cliente 24 horas por dia"
           }
         }
       },
