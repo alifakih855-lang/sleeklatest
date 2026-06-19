@@ -227,6 +227,7 @@
         "testimonial_fKmgTH",
         "testimonial_TtpjJx"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "color_scheme": "scheme-1",
@@ -581,7 +582,7 @@
         "heading_8wpKhx": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Última oportunidade para os garantir, antes que desapareçam para sempre!</strong>",
+            "heading": "<strong>Ultima occasione per assicurarveli, prima che spariscano per sempre!</strong>",
             "heading_size": "h4",
             "heading_highlight_style": "none"
           }
@@ -589,7 +590,7 @@
         "text_YNfBmp": {
           "type": "text",
           "settings": {
-            "text": "<p>O desconto é aplicado automaticamente no momento do pagamento e os artigos podem ser combinados</p>",
+            "text": "<p>Lo sconto viene applicato automaticamente al momento del pagamento e gli articoli possono essere combinati</p>",
             "text_size": "text-base"
           }
         }
@@ -804,7 +805,7 @@
             "color_scheme": "",
             "icon": "truck",
             "icon_style": "btn--secondary",
-            "text": "Envio gratuito"
+            "text": "Spedizione gratuita"
           }
         },
         "feature_item_bEzMqR": {
@@ -813,7 +814,7 @@
             "color_scheme": "",
             "icon": "currency-circle-dollar",
             "icon_style": "btn--secondary",
-            "text": "Devolução no prazo de 30 dias"
+            "text": "Reso entro 30 giorni"
           }
         },
         "feature_item_GLraDd": {
@@ -822,7 +823,7 @@
             "color_scheme": "",
             "icon": "seal-check",
             "icon_style": "btn--secondary",
-            "text": "Pagamentos seguros"
+            "text": "Pagamenti sicuri"
           }
         },
         "feature_item_rcBfme": {
@@ -831,7 +832,7 @@
             "color_scheme": "",
             "icon": "heart",
             "icon_style": "btn--secondary",
-            "text": "Atendimento ao cliente 24 horas por dia"
+            "text": "Assistenza clienti 24 ore su 24"
           }
         }
       },
