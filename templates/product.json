@@ -180,7 +180,6 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/make_the_woman_202604161555.jpg",
             "text": "<p>\"Ho ordinato online perché non sono a Roma. È arrivato velocemente, tutto perfettamente imballato. Lo rifarò.\"</p>",
             "author": "Chiara B., Napoli",
             "bio": "Acquirente verificato",
@@ -192,7 +191,6 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/A_candid_smartphone_202604161554.jpg",
             "text": "<p>\"In realtà odio fare shopping — ma qui no.\"</p>",
             "author": "Sofia M., Milano",
             "bio": "Acquirente verificato",
@@ -204,7 +202,6 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/A_candid_smartphone_202604161554_1.jpg",
             "text": "<p>\"Non il più economico, ma la differenza si nota subito.\"</p>",
             "author": "Giulia R., Roma",
             "bio": "Acquirente verificato",
@@ -216,7 +213,6 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/Woman_trying_on_202604142037.jpg",
             "text": "<p>\"Sono entrata per caso e sono rimasta un'ora. La consulenza era davvero ottima.\"</p>",
             "author": "Francesca S., Roma",
             "bio": "Acquirente verificato",
@@ -267,7 +263,7 @@
         "heading_tw8MMi": {
           "type": "heading",
           "settings": {
-            "heading": "<em>L'eleganza non è ciò che attira l'attenzione, ma ciò che rimane nella memoria.\"</em>",
+            "heading": "\"A elegância não é aquilo que atrai a atenção, mas aquilo que permanece na memória.\"",
             "heading_size": "hd3",
             "heading_highlight_style": "none"
           }
@@ -275,7 +271,7 @@
         "text_WpgxVt": {
           "type": "text",
           "settings": {
-            "text": "<p></p><p>Dal 1998, Serena Roma rappresenta il design senza tempo e la raffinatezza discreta. Le nostre collezioni riflettono una dedizione alla qualità artigianale, ai dettagli curati e a una moderna interpretazione dello stile classico — ispirata dal ritmo e dalla raffinatezza di Roma.</p>",
+            "text": "<p>Desde 2015, a Inês e Beatriz representa o design intemporal e a sofisticação discreta. As nossas coleções refletem uma dedicação à qualidade artesanal, aos detalhes cuidados e a uma interpretação moderna do estilo clássico — inspirada pelo ritmo e pela elegância de Lisboa.</p>",
             "text_size": "text-inherit"
           }
         }
@@ -302,13 +298,13 @@
         "subheading_ttm4KV": {
           "type": "subheading",
           "settings": {
-            "subheading": "AVVISO IMPORTANTE"
+            "subheading": "AVISO IMPORTANTE"
           }
         },
         "heading_3rFe6a": {
           "type": "heading",
           "settings": {
-            "heading": "<em>RIMBORSIAMO OGNI 10° ORDINE</em>",
+            "heading": "REEMBOLSAMOS CADA 10.º PEDIDO",
             "heading_size": "h3",
             "heading_highlight_style": "none"
           }
@@ -316,7 +312,7 @@
         "text_bcdYPf": {
           "type": "text",
           "settings": {
-            "text": "<p>\"<strong>Con il cuore pesante</strong>, devo comunicarvi che Serena Roma chiuderà i battenti a causa del mio pensionamento. Questa decisione non è stata facile. <br/><br/>Lasciare il lavoro di una vita non è mai semplice, ma credo che sia giunto il momento. Non posso più mantenere gli standard di eccellenza che meritate.\"<br/><br/>Come commiato e un sincero ringraziamento per la vostra fedeltà nel corso degli anni, offriamo i nostri ultimi pezzi artigianali a prezzi eccezionali. Inoltre, rimborseremo l'intero importo di <strong>ogni 10° ordine effettuato</strong>. Assicuratevi un pezzo della storia di Serena Roma prima che sparisca per sempre.<br/><br/>-<strong> SERENA ROSSI</strong><br/>Fondatrice & Stilista</p>",
+            "text": "<p>\"Com o coração apertado, devo comunicar-vos que a Inês e Beatriz vai encerrar as suas portas devido à minha reforma. Esta decisão não foi fácil. Deixar o trabalho de uma vida nunca é simples, mas acredito que chegou o momento. Já não consigo manter os padrões de excelência que merecem.\"</p><p>Como despedida e um sincero agradecimento pela vossa fidelidade ao longo dos anos, oferecemos as nossas últimas peças artesanais a preços excecionais. Além disso, reembolsaremos a totalidade do valor de <strong>cada 10.º pedido</strong> efetuado.</p><p>Garanta uma peça da história da Inês e Beatriz antes que desapareça para sempre.</p><p><strong>— INÊS COSTA</strong><br/><br/>Fundadora & Estilista</p>",
             "text_size": "text-base"
           }
         }
@@ -330,7 +326,6 @@
       "settings": {
         "section_color_scheme": "",
         "color_scheme": "",
-        "image": "shopify://shop_images/A_candid__realistic_202604161546.jpg",
         "image_height": "medium",
         "layout": "image_first",
         "desktop_content_position": "center",
@@ -352,7 +347,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-1",
-        "heading": "Combina e risparmia un ulteriore 20%",
+        "heading": "Combine e poupe mais <strong>15%</strong>",
         "heading_size": "h2",
         "heading_highlight_style": "none",
         "subheading": "",
@@ -559,7 +554,7 @@
         "text_qV4B4c": {
           "type": "text",
           "settings": {
-            "text": "<h4><strong>Acquista 2, Ottieni Extra 20% DI SCONTO<br/><br/>Acquista 3, Ottieni Extra 25% DI SCONTO<br/><br/>Acquista 4, Ottieni Extra 30% DI SCONTO<br/><br/>Acquista 5, Ottieni Extra 35% DI SCONTO</strong></h4>",
+            "text": "<h4>Compre 2, Receba <strong>Extra 15% DE DESCONTO</strong><br/><br/>Compre 3, Receba <strong>Extra 20% DE DESCONTO</strong><br/><br/>Compre 4, Receba <strong>Extra 25% DE DESCONTO</strong><br/><br/>Compre 5, Receba<strong> Extra 30% DE DESCONTO</strong></h4>",
             "text_size": "text-inherit"
           }
         }
@@ -585,7 +580,7 @@
         "heading_8wpKhx": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Ultima occasione per assicurarveli, prima che spariscano per sempre!</strong>",
+            "heading": "<strong>Última oportunidade para os garantir, antes que desapareçam para sempre!</strong>",
             "heading_size": "h4",
             "heading_highlight_style": "none"
           }
@@ -593,7 +588,7 @@
         "text_YNfBmp": {
           "type": "text",
           "settings": {
-            "text": "<p>Lo sconto viene applicato automaticamente al momento del pagamento e gli articoli possono essere combinati</p>",
+            "text": "<p>O desconto é aplicado automaticamente no momento do pagamento e os artigos podem ser combinados</p>",
             "text_size": "text-base"
           }
         }
