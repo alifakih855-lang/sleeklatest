@@ -21,7 +21,7 @@
         "heading_98QAw6": {
           "type": "heading",
           "settings": {
-            "heading": "Vestita per la donna che sei già",
+            "heading": "<strong>Vestida para a mulher que já és</strong>",
             "heading_size": "h2",
             "heading_highlight_style": "none"
           }
@@ -29,7 +29,7 @@
         "text_xtxXcD": {
           "type": "text",
           "settings": {
-            "text": "<p>Alla collezione primavera</p>",
+            "text": "<p>Para a coleção primavera</p>",
             "text_size": "text-base"
           }
         }
