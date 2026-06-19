@@ -83,7 +83,6 @@
       "name": "t:sections.image-with-text-overlay.name",
       "settings": {
         "container": "full",
-        "image": "shopify://shop_images/Liquidazione_per_trasloco_70_di_sconto_termina_a_mezzanotte_2.png",
         "desktop_height": "adapt",
         "overlay_opacity": 0,
         "enable_parallax": false,
@@ -91,7 +90,6 @@
         "color_scheme": "",
         "content_position": "middle-left",
         "content_alignment": "left",
-        "image_mobile": "shopify://shop_images/Liquidazione_per_trasloco_70_di_sconto_termina_a_mezzanotte_2.png",
         "mobile_height": "auto",
         "padding_top": 0,
         "padding_bottom": 0,
@@ -104,7 +102,7 @@
         "heading_9gGPxP": {
           "type": "heading",
           "settings": {
-            "heading": "UN ADDIO DOPO 27 ANNI",
+            "heading": "VENDA DE MUDANÇA – ÚLTIMA OPORTUNIDADE",
             "heading_size": "h3",
             "heading_highlight_style": "none"
           }
@@ -112,7 +110,7 @@
         "text_WckH8K": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Con il cuore pesante</strong>, chiudo il mio negozio, costruito con il supporto di mio marito. Tuttavia, per circostanze personali, dobbiamo ora occuparci dell'attività di famiglia. Per smaltire la merce rimanente, organizzo una grande svendita di chiusura con <strong>sconti fino all'80%</strong>. Non perdete l'occasione – una volta esauriti, non ci saranno più!<br/><br/><strong>Offerte dell'ultimo addio:</strong></p><p><strong>Acquista 2 Ottieni Extra 20% DI SCONTO<br/>Acquista 3 Ottieni Extra 25% DI SCONTO<br/>Acquista 4 Ottieni Extra 30% DI SCONTO<br/>Acquista 5 Ottieni Extra 35% DI SCONTO</strong></p><p><em>Gli sconti vengono applicati automaticamente al momento del pagamento e gli articoli possono essere combinati da diverse collezioni.</em></p>",
+            "text": "<p>Estamos a abrir um novo capítulo. A Inês e Beatriz vai mudar de instalações – e antes de deixarmos este espaço para trás, despedimo-nos das últimas peças da nossa coleção atual.</p><p>Muitos artigos não voltarão e vários tamanhos estão já bastante limitados. Esta é a tua última oportunidade para garantir as nossas peças mais desejadas.</p><p>Aproveita descontos acumulados de até 80% em peças selecionadas.<br/><br/>Garante descontos adicionais: <br/><br/><strong>2 artigos = 15% de desconto <br/>3 artigos = 20% de desconto <br/>4 artigos = 25% de desconto</strong></p><p>Não é necessário código – o desconto é aplicado automaticamente no checkout.</p><p>Coloca os teus favoritos no carrinho e vê o preço descer de imediato.</p><p>Com amor, Inês e Beatriz</p>",
             "text_size": "text-base"
           }
         },
