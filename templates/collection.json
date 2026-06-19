@@ -83,6 +83,7 @@
       "name": "t:sections.image-with-text-overlay.name",
       "settings": {
         "container": "full",
+        "image": "shopify://shop_images/2_artigos_15_de_desconto_3_artigos_20_de_desconto_4_artigos_25_de_desconto_2.png",
         "desktop_height": "adapt",
         "overlay_opacity": 0,
         "enable_parallax": false,
@@ -90,6 +91,7 @@
         "color_scheme": "",
         "content_position": "middle-left",
         "content_alignment": "left",
+        "image_mobile": "shopify://shop_images/2_artigos_15_de_desconto_3_artigos_20_de_desconto_4_artigos_25_de_desconto_2.png",
         "mobile_height": "auto",
         "padding_top": 0,
         "padding_bottom": 0,
