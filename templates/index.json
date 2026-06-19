@@ -15,13 +15,13 @@
         "subheading_YiYiR7": {
           "type": "subheading",
           "settings": {
-            "subheading": "Inês e Beatriz"
+            "subheading": "SERENA ROMA"
           }
         },
         "heading_98QAw6": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Vestida para a mulher que já és</strong>",
+            "heading": "<strong>Un abito pensato per la donna che sei già</strong>",
             "heading_size": "h2",
             "heading_highlight_style": "none"
           }
@@ -29,7 +29,7 @@
         "text_xtxXcD": {
           "type": "text",
           "settings": {
-            "text": "<p>Para a coleção primavera</p>",
+            "text": "<p>Per la collezione primaverile</p>",
             "text_size": "text-base"
           }
         }
@@ -42,6 +42,7 @@
       "name": "t:sections.image-with-text-overlay.name",
       "settings": {
         "container": "full",
+        "image": "shopify://shop_images/download_9.png",
         "desktop_height": "extra-medium",
         "overlay_opacity": 25,
         "enable_parallax": false,
@@ -193,7 +194,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "text": "Peças selecionadas à mão. Aconselhamento honesto. Uma boutique que veste as mulheres de Lisboa desde 2015.",
+        "text": "Capo selezionati con cura. Consigli sinceri. Una boutique che veste le donne di Lisbona dal 2015.",
         "heading_size": "hd2",
         "alignment": "center",
         "padding_top": 100,
