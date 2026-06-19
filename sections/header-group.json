@@ -32,7 +32,7 @@
         "text_aC4y3w": {
           "type": "text",
           "settings": {
-            "text": "Venda de mudança – 80% de desconto – termina à meia-noite",
+            "text": "Venda de mudança – <b>80% de desconto </b>– termina à meia-noite",
             "text_link": "",
             "text_size": "text-base",
             "font_weight": "font-body",
