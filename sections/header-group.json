@@ -147,6 +147,9 @@
       "block_order": [
         "timer_fm9TBK"
       ],
+      "custom_css": [
+        ".text-sm-extra {font-size: 12px;}"
+      ],
       "name": "t:sections.announcement-bar.name",
       "settings": {
         "color_scheme": "scheme-4",
