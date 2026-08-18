@@ -11,6 +11,30 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
+    "announcement_bar_DjYiKp": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_bar_anpQDh": {
+          "type": "announcement_bar",
+          "settings": {
+            "text": "<strong>LIQUIDAZIONE FINALE DI STAGIONE</strong>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_bar_anpQDh"
+      ],
+      "name": "t:sections.announcement-bar.name",
+      "settings": {
+        "color_scheme": "",
+        "content_width": 30,
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
     "scrolling_promotion_KhdTdc": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -49,6 +73,7 @@
         "text_niHbzP",
         "text_aC4y3w"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "color_scheme": "scheme-inverse",
@@ -89,6 +114,7 @@
     }
   },
   "order": [
+    "announcement_bar_DjYiKp",
     "scrolling_promotion_KhdTdc",
     "header"
   ]
