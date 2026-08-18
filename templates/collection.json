@@ -114,8 +114,8 @@
         "text_WckH8K": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Ottieni uno Sconto Aggiuntivo acquistando più di un vestito:</strong></p><p><strong>Extra -10% di sconto</strong> su <strong>2 articoli<br/>Extra -15% di sconto</strong> su <strong>3 articoli<br/>Extra -20% di sconto</strong> su <strong>4 articoli<br/>Extra -25% di sconto</strong> su <strong>5 articoli</strong></p><p><strong>Nota:</strong> Lo sconto viene applicato automaticamente nel carrello!</p>",
-            "text_size": "text-base"
+            "text": "<p><strong>Ottieni uno Sconto Aggiuntivo acquistando più di un vestito:</strong></p><p><strong>Extra -15% di sconto</strong> su <strong>2 articoli<br/>Extra -20% di sconto</strong> su <strong>3 articoli<br/>Extra -25% di sconto</strong> su <strong>4 articoli<br/>Extra -30% di sconto</strong> su <strong>5 articoli</strong></p><p><strong>Nota:</strong> Lo sconto viene applicato automaticamente nel carrello!</p>",
+            "text_size": "text-inherit"
           }
         },
         "button_BUmEkg": {
