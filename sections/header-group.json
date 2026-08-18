@@ -148,7 +148,8 @@
         "timer_fm9TBK"
       ],
       "custom_css": [
-        ".text-sm-extra {font-size: 12px;}"
+        ".text-sm-extra {font-size: 12px;}",
+        ".countdown-timer__block {color: red;}"
       ],
       "name": "t:sections.announcement-bar.name",
       "settings": {
