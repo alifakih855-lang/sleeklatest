@@ -349,7 +349,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-1",
-        "heading": "Combina e risparmia un ulteriore <strong>20%</strong>",
+        "heading": "Combina e risparmia un ulteriore 15<strong>%</strong>",
         "heading_size": "h2",
         "heading_highlight_style": "none",
         "subheading": "",
@@ -556,7 +556,7 @@
         "text_qV4B4c": {
           "type": "text",
           "settings": {
-            "text": "<h5><strong>Acquista 2, Ottieni Extra 20% DI SCONTO<br/>Acquista 3, Ottieni Extra 25% DI SCONTO<br/>Acquista 4, Ottieni Extra 30% DI SCONTO<br/>Acquista 5, Ottieni Extra 35% DI SCONTO</strong></h5>",
+            "text": "<h5><strong>Acquista 2, Ottieni Extra 15% DI SCONTO<br/>Acquista 3, Ottieni Extra 20% DI SCONTO<br/>Acquista 4, Ottieni Extra 25% DI SCONTO<br/>Acquista 5, Ottieni Extra 30% DI SCONTO</strong></h5>",
             "text_size": "text-inherit"
           }
         }
