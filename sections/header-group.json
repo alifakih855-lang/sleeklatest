@@ -149,7 +149,7 @@
       ],
       "custom_css": [
         ".text-sm-extra {font-size: 12px;}",
-        ".countdown-timer__block {color: red;}"
+        ".countdown-timer .countdown-timer__block div {color: #a10015;}"
       ],
       "name": "t:sections.announcement-bar.name",
       "settings": {
