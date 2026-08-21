@@ -80,7 +80,6 @@
         "heading_qqX8nq",
         "text_nw9hPB"
       ],
-      "disabled": true,
       "name": "t:sections.image-with-text-overlay.name",
       "settings": {
         "container": "full",
@@ -113,6 +112,7 @@
         },
         "text_WckH8K": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>Ottieni uno Sconto Aggiuntivo acquistando più di un vestito:</strong></p><p><strong>Extra -15% di sconto</strong> su <strong>2 articoli<br/>Extra -20% di sconto</strong> su <strong>3 articoli<br/>Extra -25% di sconto</strong> su <strong>4 articoli<br/>Extra -30% di sconto</strong> su <strong>5 articoli</strong></p><p><strong>Nota:</strong> Lo sconto viene applicato automaticamente nel carrello!</p>",
             "text_size": "text-inherit"
@@ -133,6 +133,7 @@
         "text_WckH8K",
         "button_BUmEkg"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "color_scheme": "",
@@ -166,6 +167,17 @@
         "show_section_divider": true,
         "divider_width": "fixed"
       }
+    },
+    "custom_liquid_qrrhJp": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n  .serena-farewell {\n    --green: #0b5554;\n    --bg: #f5f8fc;\n    --text: #30343b;\n    --border: rgba(11, 85, 84, 0.22);\n\n    background: var(--bg);\n    color: var(--text);\n    padding: 52px 20px;\n    text-align: center;\n    font-family: var(--font-body-family), Arial, sans-serif;\n  }\n\n  .serena-farewell__inner {\n    max-width: 720px;\n    margin: 0 auto;\n  }\n\n  .serena-farewell__eyebrow {\n    margin: 0 0 12px;\n    color: var(--green);\n    font-size: 10px;\n    font-weight: 700;\n    letter-spacing: 0.19em;\n    text-transform: uppercase;\n  }\n\n  .serena-farewell__title {\n    max-width: 620px;\n    margin: 0 auto 18px;\n    color: var(--green);\n    font-family: var(--font-heading-family), Georgia, serif;\n    font-size: clamp(32px, 4vw, 48px);\n    font-weight: 400;\n    line-height: 1.05;\n    letter-spacing: -0.025em;\n  }\n\n  .serena-farewell__text {\n    max-width: 610px;\n    margin: 0 auto;\n    font-size: 15px;\n    line-height: 1.6;\n  }\n\n  .serena-farewell__text p {\n    margin: 0 0 11px;\n  }\n\n  .serena-farewell__text p:last-child {\n    margin-bottom: 0;\n  }\n\n  .serena-farewell strong {\n    color: var(--green);\n    font-weight: 700;\n  }\n\n  /* OFFER BOX */\n  .serena-farewell__offer {\n    max-width: 580px;\n    margin: 26px auto 0;\n    background: #fff;\n    border: 1px solid var(--border);\n  }\n\n  .serena-farewell__offer-header {\n    padding: 14px 16px;\n    background: var(--green);\n    color: #fff;\n    font-size: 11px;\n    font-weight: 700;\n    letter-spacing: 0.14em;\n    text-transform: uppercase;\n  }\n\n  .serena-farewell__offer-grid {\n    display: grid;\n    grid-template-columns: repeat(4, 1fr);\n    padding: 20px 18px 17px;\n  }\n\n  .serena-farewell__offer-item {\n    padding: 2px 10px;\n    border-right: 1px solid #e2e6e8;\n  }\n\n  .serena-farewell__offer-item:last-child {\n    border-right: 0;\n  }\n\n  .serena-farewell__qty {\n    display: block;\n    margin-bottom: 3px;\n    font-size: 12px;\n    color: #5b5f63;\n  }\n\n  .serena-farewell__discount {\n    display: block;\n    color: var(--green);\n    font-size: 17px;\n    font-weight: 700;\n  }\n\n  .serena-farewell__note {\n    margin: 0 18px;\n    padding: 13px 10px 15px;\n    border-top: 1px solid #e5e7e9;\n    color: #858585;\n    font-size: 11px;\n    line-height: 1.45;\n    font-style: italic;\n  }\n\n  /* CLOSING */\n  .serena-farewell__closing {\n    margin: 25px auto 0;\n    color: var(--green);\n    font-family: var(--font-heading-family), Georgia, serif;\n    font-size: 23px;\n    line-height: 1.25;\n  }\n\n  .serena-farewell__signature {\n    margin-top: 11px;\n    font-size: 11px;\n    font-weight: 700;\n    letter-spacing: 0.07em;\n    text-transform: uppercase;\n  }\n\n  .serena-farewell__role {\n    margin-left: 4px;\n    color: #777;\n    font-weight: 400;\n    letter-spacing: 0;\n    text-transform: none;\n  }\n\n\n  /* MOBILE */\n  @media screen and (max-width: 749px) {\n\n    .serena-farewell {\n      padding: 34px 20px 36px;\n    }\n\n    .serena-farewell__eyebrow {\n      margin-bottom: 10px;\n      font-size: 9px;\n    }\n\n    .serena-farewell__title {\n      max-width: 340px;\n      margin-bottom: 15px;\n      font-size: 32px;\n      line-height: 1.04;\n    }\n\n    .serena-farewell__text {\n      max-width: 355px;\n      font-size: 14px;\n      line-height: 1.52;\n    }\n\n    .serena-farewell__text p {\n      margin-bottom: 9px;\n    }\n\n    .serena-farewell__offer {\n      margin-top: 21px;\n    }\n\n    .serena-farewell__offer-header {\n      padding: 12px 10px;\n      font-size: 10px;\n    }\n\n    .serena-farewell__offer-grid {\n      grid-template-columns: repeat(2, 1fr);\n      padding: 12px 12px 8px;\n      gap: 0;\n    }\n\n    .serena-farewell__offer-item {\n      padding: 10px 5px;\n      border-right: 1px solid #e4e7e8;\n      border-bottom: 1px solid #e4e7e8;\n    }\n\n    .serena-farewell__offer-item:nth-child(2n) {\n      border-right: 0;\n    }\n\n    .serena-farewell__offer-item:nth-child(3),\n    .serena-farewell__offer-item:nth-child(4) {\n      border-bottom: 0;\n    }\n\n    .serena-farewell__qty {\n      font-size: 11px;\n    }\n\n    .serena-farewell__discount {\n      font-size: 16px;\n    }\n\n    .serena-farewell__note {\n      margin: 0 12px;\n      padding: 10px 5px 12px;\n      font-size: 10px;\n    }\n\n    .serena-farewell__closing {\n      margin-top: 20px;\n      font-size: 21px;\n    }\n\n    .serena-farewell__signature {\n      margin-top: 8px;\n      font-size: 10px;\n    }\n  }\n</style>\n\n\n<section class=\"serena-farewell\">\n  <div class=\"serena-farewell__inner\">\n\n    <p class=\"serena-farewell__eyebrow\">\n      Un ultimo messaggio da Serena Roma\n    </p>\n\n    <h2 class=\"serena-farewell__title\">\n      Dopo 23 anni, è arrivato il momento di salutarci\n    </h2>\n\n    <div class=\"serena-farewell__text\">\n\n      <p>\n        Per 23 anni, questa boutique è stata una parte importante della mia vita.\n        Oggi, però, sento che è arrivato il momento di rallentare e dedicare più tempo alla mia famiglia.\n      </p>\n\n      <p>\n        Per questo ho preso la difficile decisione di <strong>chiudere Serena Roma.</strong>\n        Prima di salutarci, tutti gli ultimi articoli sono disponibili nella nostra\n        <strong>svendita di chiusura.</strong>\n      </p>\n\n    </div>\n\n\n    <div class=\"serena-farewell__offer\">\n\n      <div class=\"serena-farewell__offer-header\">\n        Le nostre ultime offerte\n      </div>\n\n      <div class=\"serena-farewell__offer-grid\">\n\n        <div class=\"serena-farewell__offer-item\">\n          <span class=\"serena-farewell__qty\">2 articoli</span>\n          <span class=\"serena-farewell__discount\">15% extra</span>\n        </div>\n\n        <div class=\"serena-farewell__offer-item\">\n          <span class=\"serena-farewell__qty\">3 articoli</span>\n          <span class=\"serena-farewell__discount\">20% extra</span>\n        </div>\n\n        <div class=\"serena-farewell__offer-item\">\n          <span class=\"serena-farewell__qty\">4 articoli</span>\n          <span class=\"serena-farewell__discount\">25% extra</span>\n        </div>\n\n        <div class=\"serena-farewell__offer-item\">\n          <span class=\"serena-farewell__qty\">5 articoli</span>\n          <span class=\"serena-farewell__discount\">30% extra</span>\n        </div>\n\n      </div>\n\n      <div class=\"serena-farewell__note\">\n        Sconto applicato automaticamente al checkout.\n        Puoi combinare articoli di collezioni diverse.\n      </div>\n\n    </div>\n\n\n    <div class=\"serena-farewell__closing\">\n      Grazie di cuore per questi 23 anni insieme. 🤍\n    </div>\n\n    <div class=\"serena-farewell__signature\">\n      — Serena Rossi\n      <span class=\"serena-farewell__role\">Fondatrice di Serena Roma</span>\n    </div>\n\n  </div>\n</section>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
     }
   },
   "order": [
@@ -173,6 +185,7 @@
     "banner",
     "image_with_text_overlay_aEhewx",
     "rich_text_kjVBVk",
-    "product-grid"
+    "product-grid",
+    "custom_liquid_qrrhJp"
   ]
 }

@@ -147,6 +147,7 @@
       "block_order": [
         "timer_fm9TBK"
       ],
+      "disabled": true,
       "custom_css": [
         ".text-sm-extra {font-size: 12px;}",
         ".countdown-timer .countdown-timer__block div {color: #cc001b;}"
