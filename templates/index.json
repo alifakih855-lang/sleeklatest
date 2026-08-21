@@ -147,7 +147,7 @@
         "button_style": "btn--underline",
         "tabs_nav_style": "design-1",
         "padding_top": 100,
-        "padding_bottom": 0,
+        "padding_bottom": 88,
         "show_section_divider": false,
         "divider_width": "fixed",
         "custom_class": ""
@@ -189,6 +189,7 @@
         "image_DyKWHM",
         "image_NGQQmW"
       ],
+      "disabled": true,
       "custom_css": [
         ".highlight-text-with-image {--blocks-radius: 13rem; --blocks-radius-mobile: 13rem;}"
       ],
