@@ -323,6 +323,7 @@
         "heading_3rFe6a",
         "text_bcdYPf"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "section_color_scheme": "",
@@ -339,6 +340,17 @@
         "padding_bottom": 50,
         "show_section_divider": false,
         "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
+    "custom_liquid_PRCgzi": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n  .serena-founder {\n    --serena-green: #0b5554;\n    --serena-bg: #f5f8fc;\n    --serena-text: #30343b;\n    --serena-muted: #70757b;\n\n    background: var(--serena-bg);\n    padding: 56px 24px;\n    font-family: var(--font-body-family), Arial, sans-serif;\n  }\n\n  .serena-founder__inner {\n    max-width: 1280px;\n    margin: 0 auto;\n    display: grid;\n    grid-template-columns: 1fr 1fr;\n    align-items: stretch;\n  }\n\n  /* IMAGE */\n  .serena-founder__image-wrap {\n    min-height: 520px;\n    overflow: hidden;\n  }\n\n  .serena-founder__image {\n    width: 100%;\n    height: 100%;\n    min-height: 520px;\n    display: block;\n    object-fit: cover;\n    object-position: center;\n  }\n\n  /* CONTENT */\n  .serena-founder__content {\n    background: #ffffff;\n    padding: 56px 60px;\n    display: flex;\n    flex-direction: column;\n    justify-content: center;\n    text-align: center;\n  }\n\n  .serena-founder__eyebrow {\n    margin: 0 0 14px;\n    color: var(--serena-green);\n    font-size: 10px;\n    font-weight: 700;\n    letter-spacing: 0.18em;\n    text-transform: uppercase;\n  }\n\n  .serena-founder__title {\n    max-width: 540px;\n    margin: 0 auto 22px;\n    color: var(--serena-green);\n    font-family: var(--font-heading-family), Georgia, serif;\n    font-size: clamp(36px, 3vw, 52px);\n    font-weight: 400;\n    line-height: 1.06;\n    letter-spacing: -0.02em;\n  }\n\n  .serena-founder__story {\n    max-width: 570px;\n    margin: 0 auto;\n    color: var(--serena-text);\n    font-size: 15px;\n    line-height: 1.65;\n  }\n\n  .serena-founder__story p {\n    margin: 0 0 13px;\n  }\n\n  .serena-founder__story strong {\n    color: var(--serena-green);\n    font-weight: 700;\n  }\n\n  /* SMALL HIGHLIGHT */\n  .serena-founder__notice {\n    max-width: 500px;\n    margin: 22px auto 0;\n    padding: 15px 20px;\n    border-top: 1px solid rgba(11, 85, 84, 0.25);\n    border-bottom: 1px solid rgba(11, 85, 84, 0.25);\n    color: var(--serena-green);\n    font-size: 13px;\n    line-height: 1.5;\n  }\n\n  .serena-founder__notice strong {\n    font-weight: 700;\n  }\n\n  /* SIGNATURE */\n  .serena-founder__signature {\n    margin-top: 22px;\n    color: #202020;\n    font-size: 11px;\n    font-weight: 700;\n    letter-spacing: 0.08em;\n    text-transform: uppercase;\n  }\n\n  .serena-founder__role {\n    display: block;\n    margin-top: 4px;\n    color: var(--serena-muted);\n    font-size: 11px;\n    font-weight: 400;\n    letter-spacing: 0;\n    text-transform: none;\n  }\n\n  /* BUTTON */\n  .serena-founder__button {\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    margin: 25px auto 0;\n    min-height: 48px;\n    padding: 0 28px;\n    background: var(--serena-green);\n    color: #ffffff !important;\n    text-decoration: none;\n    font-size: 11px;\n    font-weight: 700;\n    letter-spacing: 0.12em;\n    text-transform: uppercase;\n    transition: opacity 0.2s ease;\n  }\n\n  .serena-founder__button:hover {\n    opacity: 0.88;\n  }\n\n\n  /* TABLET */\n  @media screen and (max-width: 990px) {\n    .serena-founder {\n      padding: 40px 20px;\n    }\n\n    .serena-founder__content {\n      padding: 42px 34px;\n    }\n\n    .serena-founder__image-wrap,\n    .serena-founder__image {\n      min-height: 470px;\n    }\n  }\n\n\n  /* MOBILE */\n  @media screen and (max-width: 749px) {\n    .serena-founder {\n      padding: 0;\n    }\n\n    .serena-founder__inner {\n      display: block;\n    }\n\n    .serena-founder__image-wrap {\n      min-height: 0;\n      height: 360px;\n    }\n\n    .serena-founder__image {\n      height: 360px;\n      min-height: 0;\n      object-position: center 35%;\n    }\n\n    .serena-founder__content {\n      padding: 31px 21px 35px;\n    }\n\n    .serena-founder__eyebrow {\n      margin-bottom: 10px;\n      font-size: 9px;\n    }\n\n    .serena-founder__title {\n      max-width: 340px;\n      margin-bottom: 15px;\n      font-size: 32px;\n      line-height: 1.05;\n    }\n\n    .serena-founder__story {\n      max-width: 355px;\n      font-size: 14px;\n      line-height: 1.55;\n    }\n\n    .serena-founder__story p {\n      margin-bottom: 10px;\n    }\n\n    .serena-founder__notice {\n      margin-top: 17px;\n      padding: 12px 10px;\n      font-size: 12px;\n    }\n\n    .serena-founder__signature {\n      margin-top: 17px;\n      font-size: 10px;\n    }\n\n    .serena-founder__button {\n      width: 100%;\n      max-width: 355px;\n      margin-top: 20px;\n    }\n  }\n</style>\n\n\n<section class=\"serena-founder\">\n  <div class=\"serena-founder__inner\">\n\n    <div class=\"serena-founder__image-wrap\">\n      <img\n        class=\"serena-founder__image\"\n        src=\"PASTE_IMAGE_URL_HERE\"\n        alt=\"Serena Rossi, fondatrice di Serena Roma\"\n        loading=\"lazy\"\n      >\n    </div>\n\n\n    <div class=\"serena-founder__content\">\n\n      <p class=\"serena-founder__eyebrow\">\n        Un messaggio personale\n      </p>\n\n      <h2 class=\"serena-founder__title\">\n        È arrivato il momento di rallentare\n      </h2>\n\n      <div class=\"serena-founder__story\">\n\n        <p>\n          Dopo <strong>23 anni insieme</strong>, ho preso una decisione che non avrei mai immaginato fosse così difficile.\n        </p>\n\n        <p>\n          Serena Roma è stata una parte enorme della mia vita, ma oggi sento il desiderio di dedicare più tempo alla mia famiglia e vivere gli anni che verranno con maggiore tranquillità.\n        </p>\n\n        <p>\n          Per questo, ho deciso di <strong>chiudere la mia boutique.</strong>\n        </p>\n\n      </div>\n\n      <div class=\"serena-founder__notice\">\n        Prima di salutarci, voglio che gli ultimi capi trovino una nuova casa.\n        Per questo abbiamo iniziato la nostra <strong>svendita finale.</strong>\n      </div>\n\n      <div class=\"serena-founder__signature\">\n        — Serena Rossi\n        <span class=\"serena-founder__role\">\n          Fondatrice di Serena Roma\n        </span>\n      </div>\n\n      <a href=\"/collections/all\" class=\"serena-founder__button\">\n        Scopri la svendita finale\n      </a>\n\n    </div>\n\n  </div>\n</section>",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
         "custom_class": ""
       }
     },
@@ -565,6 +577,7 @@
         "heading_JX9mpi",
         "text_qV4B4c"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "color_scheme": "scheme-inverse",
@@ -844,7 +857,7 @@
       ],
       "name": "Feature list",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "subheading": "",
         "heading": "",
         "heading_size": "h2",
@@ -868,6 +881,7 @@
     "testimonials_8JHr3L",
     "rich_text_GjhrBp",
     "image_with_text_NwdB6R",
+    "custom_liquid_PRCgzi",
     "related-products",
     "rich_text_7rBwdd",
     "image_with_text_MgddA8",
