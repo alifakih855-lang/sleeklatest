@@ -20,26 +20,10 @@
             "text": "<strong>SVENDITA DI CHIUSURA </strong>— FINO AL 70%",
             "link": ""
           }
-        },
-        "announcement_bar_raipma": {
-          "type": "announcement_bar",
-          "settings": {
-            "text": "<strong>Spedizione Gratuita e Tracciata</strong>",
-            "link": ""
-          }
-        },
-        "announcement_bar_M6fBFV": {
-          "type": "announcement_bar",
-          "settings": {
-            "text": "SALDI PRIVATI · <strong>FINO AL -50%</strong>",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "announcement_bar_anpQDh",
-        "announcement_bar_raipma",
-        "announcement_bar_M6fBFV"
+        "announcement_bar_anpQDh"
       ],
       "name": "t:sections.announcement-bar.name",
       "settings": {
@@ -164,9 +148,9 @@
     }
   },
   "order": [
-    "announcement_bar_DjYiKp",
     "header",
     "scrolling_promotion_KhdTdc",
+    "announcement_bar_DjYiKp",
     "announcement_bar_jxGL8h"
   ]
 }
