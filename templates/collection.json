@@ -80,6 +80,7 @@
         "heading_qqX8nq",
         "text_nw9hPB"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text-overlay.name",
       "settings": {
         "container": "full",
