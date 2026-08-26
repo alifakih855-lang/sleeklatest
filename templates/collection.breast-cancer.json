@@ -98,6 +98,40 @@
         "custom_class": ""
       }
     },
+    "rich_text_NrpmmB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RTViJD": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>INSIEME POSSIAMO FARE LA DIFFERENZA 🎀</strong>",
+            "heading_size": "h2",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_xWtWwi": {
+          "type": "text",
+          "settings": {
+            "text": "<p></p><p>Per sostenere questa iniziativa, abbiamo creato un'offerta speciale sulla nostra collezione di gioielli: <strong>acquista 1 gioiello e ricevine 1 in regalo</strong>.</p><p>Un piccolo gesto da condividere con qualcuno che ami. 💗</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RTViJD",
+        "text_xWtWwi"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
     "custom_liquid_qrrhJp": {
       "type": "custom-liquid",
       "disabled": true,
@@ -138,6 +172,7 @@
     "breadcrumbs_Gxg9wp",
     "banner",
     "image_with_text_overlay_aEhewx",
+    "rich_text_NrpmmB",
     "custom_liquid_qrrhJp",
     "product-grid"
   ]
