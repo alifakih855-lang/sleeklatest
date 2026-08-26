@@ -118,12 +118,17 @@
         "type": "shopify://apps/seowill-trust-badges/blocks/trust_core/f42f2346-5d14-4b41-a8b9-4b6ee352262e",
         "disabled": false,
         "settings": {}
+      },
+      "9696655121035291526": {
+        "type": "shopify://apps/rapi-bundle/blocks/app-embed/99617c17-a32b-4e70-a883-7a155610d032",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "primary_accent": "#054E4A",
+          "primary_accent": "#054e4a",
           "border": "#ededed",
           "text": "#030303",
           "background": "#ffffff",
@@ -182,8 +187,8 @@
         "settings": {
           "primary_accent": "#d63a2f",
           "border": "#f7f7f7",
-          "text": "#054E4A",
-          "background": "#ECF4F3",
+          "text": "#054e4a",
+          "background": "#ecf4f3",
           "secondary_background": "#e6e6e6",
           "button": "#ffffff",
           "button_label": "#000000",
