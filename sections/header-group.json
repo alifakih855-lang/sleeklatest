@@ -11,30 +11,6 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
-    "announcement_bar_DjYiKp": {
-      "type": "announcement-bar",
-      "blocks": {
-        "announcement_bar_anpQDh": {
-          "type": "announcement_bar",
-          "settings": {
-            "text": "<strong>SVENDITA DI CHIUSURA </strong>— FINO AL 70%",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_bar_anpQDh"
-      ],
-      "name": "t:sections.announcement-bar.name",
-      "settings": {
-        "color_scheme": "",
-        "content_width": 30,
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
     "header": {
       "type": "header",
       "settings": {
@@ -110,6 +86,30 @@
         "show_divider": false,
         "divider_layout": "vertical",
         "custom_class": ""
+      }
+    },
+    "announcement_bar_DjYiKp": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_bar_anpQDh": {
+          "type": "announcement_bar",
+          "settings": {
+            "text": "<strong>SVENDITA DE FINE ESTATE </strong>— FINO AL 70%",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_bar_anpQDh"
+      ],
+      "name": "t:sections.announcement-bar.name",
+      "settings": {
+        "color_scheme": "",
+        "content_width": 30,
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "announcement_bar_jxGL8h": {
