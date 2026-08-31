@@ -308,12 +308,13 @@
         "tab_YkBVaB": {
           "type": "tab",
           "settings": {
-            "title": "Serena Heels",
-            "collection": "serena-heels"
+            "title": "Sneakers",
+            "collection": "sneakers"
           }
         },
         "tab_WRkYba": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "title": "Dolce Estate Sets",
             "collection": "dolce-estate-sets"
@@ -331,7 +332,7 @@
       "settings": {
         "color_scheme": "",
         "header_layout": "vertical",
-        "heading": "Completa il look",
+        "heading": "I più venduti",
         "heading_size": "h1",
         "heading_highlight_style": "none",
         "limit": 4,
