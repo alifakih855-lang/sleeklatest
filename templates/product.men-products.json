@@ -1,0 +1,948 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "disabled": true,
+      "settings": {
+        "text_alignment": "start"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "custom_liquid_iwjREe": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"product__block product__block--custom_liquid\">\n            \n\n\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #2a555a;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\n    font-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    font-size: 12px; /* Kleinere tekst */\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n\n\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    4,6/5 sulla base di 247 recensioni\n  </span>\n</div>\n\n<style>  </style>\n<div id=\"shopify-block-AREVuTlRPTjQ2d29uS__6065014864672580889\" class=\"shopify-block shopify-app-block\"><script>!function(){window.SLIDECART=!0;window.SLIDECART_FORMAT='{{amount_with_comma_separator}} €';var e=\"https://cdn.shopify.com/extensions/019cfb11-db27-7f6e-843d-28f50c2d9772/slide-cart-1-56/assets/slidecarthq.js\",t=document.createElement(\"script\");t.type=\"text/javascript\",t.src=e,document.querySelector(\"body\").appendChild(t)}();</script>\n\n\n</div>\n\n          </div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {
+            "show_soldout_badge": true,
+            "show_sale_badge": true,
+            "sale_badge_type": "percentage"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "icon_with_text": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "title_font": "body",
+            "title_size": "text-base",
+            "icon_1": "package",
+            "heading_1": "Spedizione gratuita con<strong> Poste Italiane</strong>",
+            "icon_2": "currency-circle-dollar",
+            "heading_2": "Garanzia di rimborso di <strong>30 giorni</strong>",
+            "icon_3": "arrow-up-left",
+            "heading_3": "Paga in sicurezza con<strong> Carta di credito</strong>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_type": "color_swatch",
+            "button_style": "square",
+            "button_size": 20,
+            "size_title": "Size",
+            "size_chart_from_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "custom_liquid_XCXhUt": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"giraffly-trust-badge-695bf223d6d57-17216724-911767633443\"></div>"
+          }
+        },
+        "custom_liquid_FQnFTH": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<style>\n  .serena-product-offer {\n    --serena-green: #0b5554;\n    --serena-light: #eef5f5;\n    --serena-border: rgba(11, 85, 84, 0.22);\n    --serena-text: #30343b;\n\n    margin: 18px 0 20px;\n    border: 1px solid var(--serena-border);\n    background: #ffffff;\n    font-family: var(--font-body-family), Arial, sans-serif;\n    overflow: hidden;\n  }\n\n  .serena-product-offer__header {\n    background: var(--serena-green);\n    color: #ffffff;\n    text-align: center;\n    padding: 11px 12px;\n  }\n\n  .serena-product-offer__eyebrow {\n    display: block;\n    margin-bottom: 2px;\n    font-size: 9px;\n    line-height: 1.2;\n    font-weight: 700;\n    letter-spacing: 0.14em;\n    text-transform: uppercase;\n    opacity: 0.85;\n  }\n\n  .serena-product-offer__title {\n    margin: 0;\n    color: #ffffff;\n    font-size: 14px;\n    line-height: 1.3;\n    font-weight: 700;\n  }\n\n  .serena-product-offer__grid {\n    display: grid;\n    grid-template-columns: repeat(4, 1fr);\n    background: #ffffff;\n  }\n\n  .serena-product-offer__item {\n    text-align: center;\n    padding: 13px 5px 12px;\n    border-right: 1px solid #e4e8e8;\n  }\n\n  .serena-product-offer__item:last-child {\n    border-right: none;\n  }\n\n  .serena-product-offer__qty {\n    display: block;\n    color: #6a6f73;\n    font-size: 10px;\n    line-height: 1.2;\n    margin-bottom: 4px;\n  }\n\n  .serena-product-offer__discount {\n    display: block;\n    color: var(--serena-green);\n    font-size: 15px;\n    line-height: 1.2;\n    font-weight: 700;\n  }\n\n  .serena-product-offer__footer {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 7px;\n    padding: 9px 12px;\n    background: var(--serena-light);\n    color: var(--serena-text);\n    text-align: center;\n    font-size: 10px;\n    line-height: 1.4;\n  }\n\n  .serena-product-offer__check {\n    width: 17px;\n    height: 17px;\n    flex: 0 0 17px;\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    border-radius: 50%;\n    background: var(--serena-green);\n    color: #ffffff;\n    font-size: 10px;\n    font-weight: 700;\n  }\n\n  @media screen and (max-width: 749px) {\n    .serena-product-offer {\n      margin: 16px 0 18px;\n    }\n\n    .serena-product-offer__header {\n      padding: 10px 10px;\n    }\n\n    .serena-product-offer__title {\n      font-size: 13px;\n    }\n\n    .serena-product-offer__grid {\n      grid-template-columns: repeat(2, 1fr);\n    }\n\n    .serena-product-offer__item {\n      padding: 10px 5px;\n      border-bottom: 1px solid #e4e8e8;\n    }\n\n    .serena-product-offer__item:nth-child(2n) {\n      border-right: none;\n    }\n\n    .serena-product-offer__item:nth-child(3),\n    .serena-product-offer__item:nth-child(4) {\n      border-bottom: none;\n    }\n\n    .serena-product-offer__discount {\n      font-size: 14px;\n    }\n\n    .serena-product-offer__footer {\n      font-size: 10px;\n      padding: 9px 8px;\n    }\n  }\n</style>\n\n\n<div class=\"serena-product-offer\">\n\n  <div class=\"serena-product-offer__header\">\n    <span class=\"serena-product-offer__eyebrow\">\n      Svendita di fine estate\n    </span>\n\n    <p class=\"serena-product-offer__title\">\n      Più scegli, più risparmi\n    </p>\n  </div>\n\n\n  <div class=\"serena-product-offer__grid\">\n\n    <div class=\"serena-product-offer__item\">\n      <span class=\"serena-product-offer__qty\">\n        2 articoli\n      </span>\n      <span class=\"serena-product-offer__discount\">\n        -15% extra\n      </span>\n    </div>\n\n    <div class=\"serena-product-offer__item\">\n      <span class=\"serena-product-offer__qty\">\n        3 articoli\n      </span>\n      <span class=\"serena-product-offer__discount\">\n        -20% extra\n      </span>\n    </div>\n\n    <div class=\"serena-product-offer__item\">\n      <span class=\"serena-product-offer__qty\">\n        4 articoli\n      </span>\n      <span class=\"serena-product-offer__discount\">\n        -25% extra\n      </span>\n    </div>\n\n    <div class=\"serena-product-offer__item\">\n      <span class=\"serena-product-offer__qty\">\n        5 articoli\n      </span>\n      <span class=\"serena-product-offer__discount\">\n        -30% extra\n      </span>\n    </div>\n\n  </div>\n\n\n  <div class=\"serena-product-offer__footer\">\n    <span class=\"serena-product-offer__check\">✓</span>\n\n    <span>\n      Sconto applicato automaticamente al checkout\n    </span>\n  </div>\n\n</div>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "inventory": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": true
+          }
+        },
+        "pickup_availability": {
+          "type": "pickup_availability",
+          "settings": {}
+        },
+        "complementary": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": false,
+            "icon": "tag",
+            "product_list_limit": 4,
+            "products_per_page": 1,
+            "image_ratio": "adapt",
+            "enable_quick_add": true
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Garanzia di qualità",
+            "icon": "none",
+            "content": "<p>Per noi la qualità e la soddisfazione del cliente vengono prima di tutto. Offriamo esclusivamente prodotti della massima qualità, perché siamo convinti che voi meritiate solo il meglio. Ogni prodotto viene accuratamente selezionato e testato per garantire che soddisfi i nostri rigorosi standard.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "default_open": false
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Guida alle taglie",
+            "icon": "none",
+            "content": "<p>Per questo articolo consigliamo di ordinare una taglia in più! Non siete sicuri? Consultate la tabella delle taglie.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "default_open": false
+          }
+        }
+      },
+      "block_order": [
+        "custom_liquid_iwjREe",
+        "title",
+        "badges",
+        "price",
+        "icon_with_text",
+        "variant_picker",
+        "buy_buttons",
+        "custom_liquid_XCXhUt",
+        "custom_liquid_FQnFTH",
+        "description",
+        "inventory",
+        "pickup_availability",
+        "complementary",
+        "collapsible-row-1",
+        "collapsible-row-2"
+      ],
+      "custom_css": [
+        ".loox-rating {margin-top: -1rem;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "enable_sticky_info": true,
+        "media_size": "large",
+        "gallery_layout": "grid-mix",
+        "mobile_thumbnails": "show",
+        "enable_image_zoom": true,
+        "enable_video_looping": true,
+        "padding_top": 56,
+        "padding_bottom": 100
+      }
+    },
+    "testimonials_8JHr3L": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_XetKiN": {
+          "type": "testimonial",
+          "settings": {
+            "show_image": true,
+            "text": "<p>\"Fiquei completamente apaixonada por este conjunto. A camisola é macia e quentinha, o lenço dá um toque de cor sofisticado e a mala é o complemento perfeito — prática e elegante ao mesmo tempo. Qualidade impecável, exatamente como nas fotografias.\"</p>",
+            "author": "Margarida S.",
+            "bio": "Comprador verificado",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_dhi3Xf": {
+          "type": "testimonial",
+          "settings": {
+            "show_image": true,
+            "text": "<p>\"Adorei este blazer de linho! O corte é perfeito, nem muito justo nem largo, e o tecido é leve para o verão mas com aquele toque de qualidade que se nota logo. Vesti com jeans e ficou impecável para o dia a dia. Já é a minha peça favorita do guarda-roupa.\"</p>",
+            "author": "Teresa M.",
+            "bio": "Comprador verificado",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_fKmgTH": {
+          "type": "testimonial",
+          "settings": {
+            "show_image": true,
+            "text": "<p>\"A experiência desde a encomenda até à entrega foi impecável. A peça veio embrulhada com tanto cuidado, em papel de seda, que parecia um presente. O linho é de excelente qualidade e o corte é muito favorecedor. Entrega rápida e tudo perfeito.\"</p>",
+            "author": "Helena F.",
+            "bio": "Comprador verificado",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_TtpjJx": {
+          "type": "testimonial",
+          "settings": {
+            "show_image": true,
+            "text": "<p>\"Comprei este lenço de presente para uma amiga e foi um sucesso total! As cores são lindíssimas e o tecido tem um toque suave, muito elegante. O embrulho veio cuidado, com aquele detalhe especial que faz toda a diferença. Voltarei de certeza.\"</p>",
+            "author": "Cristina R.",
+            "bio": "Comprador verificado",
+            "product": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_XetKiN",
+        "testimonial_dhi3Xf",
+        "testimonial_fKmgTH",
+        "testimonial_TtpjJx"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "heading": "Cosa dicono i nostri clienti",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "subheading": "4,6/5 sulla base di 247 recensioni",
+        "description": "",
+        "text_size": "text-base",
+        "card_color_scheme": "",
+        "card_layout": "1",
+        "card_text_size": "text-base",
+        "columns_desktop": 4,
+        "column_gap": "medium",
+        "enable_slider": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 38,
+        "padding_bottom": 40,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
+    "image_with_text_NwdB6R": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_ttm4KV": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "AVVISO IMPORTANTE"
+          }
+        },
+        "heading_3rFe6a": {
+          "type": "heading",
+          "settings": {
+            "heading": "RIMBORSIAMO OGNI 10° ORDINE",
+            "heading_size": "h3",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_bcdYPf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Con il cuore pesante, devo comunicarvi che Serena Roma chiuderà i battenti a causa del mio pensionamento. Questa decisione non è stata facile. Lasciare il lavoro di una vita non è mai semplice, ma credo che sia giunto il momento. Non posso più mantenere gli standard di eccellenza che meritate.\"</p><p>Come commiato e un sincero ringraziamento per la vostra fedeltà nel corso degli anni, offriamo i nostri ultimi pezzi artigianali a prezzi eccezionali. Inoltre, rimborseremo l'intero importo di ogni 10° ordine effettuato.</p><p>Assicuratevi un pezzo della storia di Serena Roma prima che sparisca per sempre.</p><p><strong>— SERENA ROSSI</strong><br/><br/>Fondatrice & Stilista</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ttm4KV",
+        "heading_3rFe6a",
+        "text_bcdYPf"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image": "shopify://shop_images/download_10.png",
+        "image_height": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "center",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "mobile_content_alignment": "left",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
+    "product_tabs_HNYxdJ": {
+      "type": "product-tabs",
+      "blocks": {
+        "tab_YkBVaB": {
+          "type": "tab",
+          "settings": {
+            "title": "Serena Heels",
+            "collection": "serena-heels"
+          }
+        },
+        "tab_WRkYba": {
+          "type": "tab",
+          "settings": {
+            "title": "Dolce Estate Sets",
+            "collection": "dolce-estate-sets"
+          }
+        }
+      },
+      "block_order": [
+        "tab_YkBVaB",
+        "tab_WRkYba"
+      ],
+      "custom_css": [
+        ".f-price-item {font-size: 15px;}"
+      ],
+      "name": "t:sections.product-tabs.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "header_layout": "vertical",
+        "heading": "Completa il look",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "limit": 4,
+        "columns": 4,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "grid_layout": "standard",
+        "pcard_image_ratio": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_all_button_on_top": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--primary",
+        "tabs_nav_style": "design-1",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
+    "custom_liquid_PRCgzi": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n  .serena-summer-message {\n    --green: #054E4A;\n    --text: #172928;\n    --muted: #707976;\n    --line: #c9d8d6;\n    --page-bg: #f2f6fa;\n    --white: #ffffff;\n\n    width: 100%;\n    padding: 55px 20px;\n    background: var(--page-bg);\n\n    font-family: Arial, Helvetica, sans-serif;\n  }\n\n  .serena-summer-message * {\n    box-sizing: border-box;\n  }\n\n  .serena-summer-message .summer-inner {\n    display: grid;\n    grid-template-columns: 1fr 1fr;\n\n    width: 100%;\n    max-width: 1280px;\n\n    margin: 0 auto;\n\n    background: var(--white);\n  }\n\n  /* =========================\n     LEFT IMAGE\n  ========================= */\n\n  .serena-summer-message .summer-image {\n    min-height: 675px;\n    overflow: hidden;\n  }\n\n  .serena-summer-message .summer-image img {\n    display: block;\n\n    width: 100%;\n    height: 100%;\n\n    object-fit: cover;\n    object-position: center;\n  }\n\n  /* =========================\n     CONTENT\n  ========================= */\n\n  .serena-summer-message .summer-content {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n\n    padding: 50px 58px;\n  }\n\n  .serena-summer-message .summer-content-inner {\n    width: 100%;\n    max-width: 510px;\n\n    text-align: center;\n  }\n\n  .serena-summer-message .summer-kicker {\n    margin: 0 0 17px;\n\n    color: var(--green);\n\n    font-size: 10px;\n    font-weight: 700;\n    line-height: 1.3;\n\n    letter-spacing: .19em;\n    text-transform: uppercase;\n  }\n\n  .serena-summer-message .summer-title {\n    margin: 0 0 22px;\n\n    color: var(--green);\n\n    font-family: Georgia, \"Times New Roman\", serif;\n\n    font-size: 47px;\n    font-weight: 400;\n    line-height: 1.05;\n\n    letter-spacing: -.025em;\n  }\n\n  .serena-summer-message .summer-copy {\n    margin: 0 0 16px;\n\n    color: var(--text);\n\n    font-size: 15px;\n    line-height: 1.65;\n  }\n\n  .serena-summer-message .summer-copy strong {\n    color: var(--green);\n    font-weight: 700;\n  }\n\n  /* =========================\n     OFFER MESSAGE\n  ========================= */\n\n  .serena-summer-message .summer-offer {\n    margin: 25px 0 21px;\n\n    padding: 17px 20px;\n\n    border-top: 1px solid var(--line);\n    border-bottom: 1px solid var(--line);\n\n    color: var(--green);\n\n    font-size: 13px;\n    line-height: 1.55;\n  }\n\n  .serena-summer-message .summer-offer strong {\n    font-weight: 700;\n  }\n\n  /* =========================\n     SIGNATURE\n  ========================= */\n\n  .serena-summer-message .summer-signature {\n    margin: 0 0 26px;\n  }\n\n  .serena-summer-message .summer-name {\n    margin: 0 0 5px;\n\n    color: #1c302f;\n\n    font-size: 11px;\n    font-weight: 700;\n    line-height: 1.3;\n\n    letter-spacing: .08em;\n    text-transform: uppercase;\n  }\n\n  .serena-summer-message .summer-role {\n    margin: 0;\n\n    color: #8a9290;\n\n    font-size: 10px;\n    line-height: 1.4;\n  }\n\n  /* =========================\n     BUTTON\n  ========================= */\n\n  .serena-summer-message .summer-button {\n    display: inline-flex;\n\n    min-width: 245px;\n    min-height: 50px;\n\n    align-items: center;\n    justify-content: center;\n\n    padding: 14px 25px;\n\n    background: var(--green);\n\n    color: #ffffff !important;\n\n    font-size: 11px;\n    font-weight: 700;\n    line-height: 1.2;\n\n    letter-spacing: .08em;\n    text-transform: uppercase;\n\n    text-decoration: none;\n\n    transition: opacity .2s ease;\n  }\n\n  .serena-summer-message .summer-button:hover {\n    opacity: .9;\n  }\n\n  /* =========================\n     MOBILE\n  ========================= */\n\n  @media (max-width: 749px) {\n\n    .serena-summer-message {\n      padding: 0;\n      background: #ffffff;\n    }\n\n    .serena-summer-message .summer-inner {\n      display: flex;\n      flex-direction: column;\n    }\n\n    .serena-summer-message .summer-image {\n      min-height: 0;\n\n      aspect-ratio: 1 / .78;\n    }\n\n    .serena-summer-message .summer-image img {\n      object-position: center 35%;\n    }\n\n    .serena-summer-message .summer-content {\n      padding: 31px 20px 35px;\n    }\n\n    .serena-summer-message .summer-content-inner {\n      max-width: 430px;\n    }\n\n    .serena-summer-message .summer-kicker {\n      margin-bottom: 12px;\n\n      font-size: 9px;\n    }\n\n    .serena-summer-message .summer-title {\n      margin-bottom: 16px;\n\n      font-size: 31px;\n      line-height: 1.05;\n    }\n\n    .serena-summer-message .summer-copy {\n      margin-bottom: 11px;\n\n      font-size: 14px;\n      line-height: 1.5;\n    }\n\n    .serena-summer-message .summer-offer {\n      margin: 19px 0 17px;\n\n      padding: 13px 10px;\n\n      font-size: 12px;\n      line-height: 1.45;\n    }\n\n    .serena-summer-message .summer-signature {\n      margin-bottom: 20px;\n    }\n\n    .serena-summer-message .summer-button {\n      width: 100%;\n\n      min-height: 49px;\n\n      font-size: 10.5px;\n    }\n  }\n\n</style>\n\n\n<section class=\"serena-summer-message\">\n\n  <div class=\"summer-inner\">\n\n\n    <!-- =========================\n         LEFT IMAGE\n         REPLACE URL\n    ========================== -->\n\n    <div class=\"summer-image\">\n\n      <img\n        src=\"https://cdn.shopify.com/s/files/1/0994/5507/4598/files/0a52dee1-922f-4e2b-b555-c0e5b91b4982.png\"\n        alt=\"Serena Rossi, fondatrice di Serena Roma\"\n        loading=\"lazy\"\n      >\n\n    </div>\n\n\n\n    <!-- =========================\n         RIGHT CONTENT\n    ========================== -->\n\n    <div class=\"summer-content\">\n\n      <div class=\"summer-content-inner\">\n\n\n        <p class=\"summer-kicker\">\n          Un messaggio da Serena Roma\n        </p>\n\n\n        <h2 class=\"summer-title\">\n          Un ultimo tocco d'estate\n        </h2>\n\n\n        <p class=\"summer-copy\">\n          Questa stagione è stata piena di colori,\n          nuovi arrivi e momenti meravigliosi condivisi insieme a voi.\n        </p>\n\n\n        <p class=\"summer-copy\">\n          Ora che l'estate volge lentamente al termine,\n          voglio fare spazio alla nuova stagione\n          e salutare questi ultimi giorni nel modo più bello.\n        </p>\n\n\n        <p class=\"summer-copy\">\n          Per questo abbiamo dato il via alla nostra\n          <strong>svendita di fine estate</strong>,\n          con una selezione di articoli a prezzi speciali.\n        </p>\n\n\n        <div class=\"summer-offer\">\n          Per pochi giorni, puoi approfittare di\n          <strong>sconti fino al 70%</strong>\n          sui tuoi preferiti della stagione.\n        </div>\n\n\n        <div class=\"summer-signature\">\n\n          <p class=\"summer-name\">\n            — Serena Rossi\n          </p>\n\n          <p class=\"summer-role\">\n            Fondatrice di Serena Roma\n          </p>\n\n        </div>\n\n\n        <a\n          class=\"summer-button\"\n          href=\"/collections/all\"\n        >\n          Scopri la svendita di fine estate\n        </a>\n\n\n      </div>\n\n    </div>\n\n\n  </div>\n\n</section>",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": ""
+      }
+    },
+    "rich_text_GjhrBp": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_gUNRwN": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Su Serena Roma"
+          }
+        },
+        "heading_tw8MMi": {
+          "type": "heading",
+          "settings": {
+            "heading": "\"L'eleganza non è ciò che attira l'attenzione, ma ciò che rimane nella memoria.\"",
+            "heading_size": "hd3",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_WpgxVt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dal 2015, Serena Roma rappresenta il design senza tempo e la raffinatezza discreta. Le nostre collezioni riflettono una dedizione alla qualità artigianale, ai dettagli curati e a una moderna interpretazione dello stile classico — ispirata dal ritmo e dalla raffinatezza di Roma.</p>",
+            "text_size": "text-inherit"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_gUNRwN",
+        "heading_tw8MMi",
+        "text_WpgxVt"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "scheme-inverse",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "custom_css": [
+        ".f-price-item {font-size: 15px;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "heading": "Combina e risparmia un ulteriore 15<strong>%</strong>",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "limit": 6,
+        "columns": 4,
+        "column_gap": "extra-small",
+        "row_gap": "inherit",
+        "enable_slider": true,
+        "controls_position": "inside",
+        "pcard_image_ratio": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 38,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": "pricefg"
+      }
+    },
+    "rich_text_7rBwdd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cUbnWW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Because you need time for yourself. Blend beauty in you",
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cUbnWW"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".rich-text__heading {max-width: 65rem; margin: 0 auto;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "content_alignment": "center",
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
+    "image_with_text_MgddA8": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_XLgqVJ": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Safety Ingredients"
+          }
+        },
+        "heading_J7mctK": {
+          "type": "heading",
+          "settings": {
+            "heading": "A fruit enzyme that helps exfoliate and soften skin",
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_A3Dahr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A fruit enzyme, such as bromelain from pineapple or papain from papaya, helps exfoliate and soften skin by breaking down and dissolving dead skin cells. This gentle exfoliation process reveals a smoother, brighter complexion and promotes cell turnover. Suitable for all skin types, it offers a natural and less abrasive alternative to traditional chemical exfoliants.</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_XLgqVJ",
+        "heading_J7mctK",
+        "text_A3Dahr"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".image-with-text__content {max-width: 57rem; margin: 0 auto;}"
+      ],
+      "settings": {
+        "section_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "image_height": "adapt",
+        "layout": "text_first",
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "center",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
+    "multicolumn_Mxt4d3": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ppme79": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image_width": "large",
+            "title": "Earth Lover",
+            "heading_size": "h4",
+            "text": "<p>Discover sustainable beauty essentials at Earth Lover beauty store.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_6eYcFq": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image_width": "large",
+            "title": "Cruelty Free",
+            "heading_size": "h4",
+            "text": "<p>Find guilt-free beauty essentials at Cruelty Free beauty store.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_6mMR7m": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image_width": "large",
+            "title": "100% Organic",
+            "heading_size": "h4",
+            "text": "<p>Discover natural skincare treasures at our 100% Organic beauty haven.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_Lix6qc": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image_width": "large",
+            "title": "Paraben Free",
+            "heading_size": "h4",
+            "text": "<p>Unveil clean beauty secrets at our Paraben-Free skincare sanctuary.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "column_ppme79",
+        "column_6eYcFq",
+        "column_6mMR7m",
+        "column_Lix6qc"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "color_scheme": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "column_alignment": "center",
+        "columns_desktop": 4,
+        "column_gap": "large",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
+    "rich_text_CzJmCa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JX9mpi": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h3",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_qV4B4c": {
+          "type": "text",
+          "settings": {
+            "text": "<h5><strong>Acquista 2, Ottieni Extra 15% DI SCONTO<br/>Acquista 3, Ottieni Extra 20% DI SCONTO<br/>Acquista 4, Ottieni Extra 25% DI SCONTO<br/>Acquista 5, Ottieni Extra 30% DI SCONTO</strong></h5>",
+            "text_size": "text-inherit"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JX9mpi",
+        "text_qV4B4c"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "scheme-inverse",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
+    "rich_text_aatrkW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8wpKhx": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Ultima occasione per assicurarveli, prima che spariscano per sempre!</strong>",
+            "heading_size": "h4",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_YNfBmp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lo sconto viene applicato automaticamente al momento del pagamento e gli articoli possono essere combinati</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8wpKhx",
+        "text_YNfBmp"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "scheme-8",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
+    "collapsible_tabs_phAkEE": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "collapsible_item_Yp4f9j": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "O que significa \"Reembolsamos Cada 10.º Pedido\"?",
+            "content": "<p>Cada 10.º pedido efetuado receberá o reembolso total do valor pago. É a nossa forma de agradecer aos clientes fiéis pelo seu apoio ao longo dos anos.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": true
+          }
+        },
+        "collapsible_item_eFemDY": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "Quais são os custos de envio?",
+            "content": "<p>Beneficia de uma entrega premium gratuita.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": true
+          }
+        },
+        "collapsible_item_RQ3WzW": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "Quais são as vossas condições de devolução?",
+            "content": "<p>Os artigos indesejados podem ser devolvidos no prazo de 30 dias após a receção, para reembolso total ou troca. Os artigos devem estar por utilizar e na embalagem original.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_item_aKpRFm": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "Como posso seguir o meu pedido?",
+            "content": "<p>Após o envio, receberá um e-mail com o número de seguimento. Com este, poderá acompanhar o estado do seu pedido através do nosso website.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_item_3c4PkF": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "Tem outras questões?",
+            "content": "<p>Se tiver mais questões, consulte as perguntas frequentes ou contacte-nos através deste link: <a href=\"/pages/contact\">Contacto</a></p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_item_Yp4f9j",
+        "collapsible_item_eFemDY",
+        "collapsible_item_RQ3WzW",
+        "collapsible_item_aKpRFm",
+        "collapsible_item_3c4PkF"
+      ],
+      "disabled": true,
+      "settings": {
+        "container": "narrow",
+        "color_scheme": "",
+        "header_layout": "vertical",
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--primary",
+        "column_gap": "large",
+        "row_gap": "inherit",
+        "item_style": "standard",
+        "item_color_scheme": "",
+        "item_heading_font": "heading",
+        "item_heading_size": "h4",
+        "item_icon_size": "extra-large",
+        "padding_top": 96,
+        "padding_bottom": 100,
+        "show_section_divider": true,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    },
+    "scrolling_promotion_WAekUk": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "text_P4JyaD": {
+          "type": "text",
+          "settings": {
+            "text": "For all skin types",
+            "text_link": "",
+            "text_size": "h1",
+            "font_weight": "font-heading",
+            "font_style": "normal",
+            "letter_spacing": 0,
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "html_XAthVt": {
+          "type": "html",
+          "settings": {
+            "html": "<div class=\"flex items-center\"><div style=\"display: block;width: 6.4rem;height: 1px; background: #000\"> </div></div>"
+          }
+        },
+        "text_QpjN3F": {
+          "type": "text",
+          "settings": {
+            "text": "Glow with confidence",
+            "text_link": "",
+            "text_size": "h1",
+            "font_weight": "font-heading",
+            "font_style": "normal",
+            "letter_spacing": 0,
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "html_ADnizU": {
+          "type": "html",
+          "settings": {
+            "html": "<div class=\"flex items-center\"><div style=\"display: block;width: 6.4rem;height: 1px; background: #000\"> </div></div>"
+          }
+        },
+        "text_WiAYMn": {
+          "type": "text",
+          "settings": {
+            "text": "Beauty in simplicity.",
+            "text_link": "",
+            "text_size": "h1",
+            "font_weight": "font-heading",
+            "font_style": "normal",
+            "letter_spacing": 0,
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "html_4bNp7y": {
+          "type": "html",
+          "settings": {
+            "html": "<div class=\"flex items-center\"><div style=\"display: block;width: 6.4rem;height: 1px; background: #000\"> </div></div>"
+          }
+        }
+      },
+      "block_order": [
+        "text_P4JyaD",
+        "html_XAthVt",
+        "text_QpjN3F",
+        "html_ADnizU",
+        "text_WiAYMn",
+        "html_4bNp7y"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "color_scheme": "scheme-6",
+        "vertical_alignment": "center",
+        "direction": "left",
+        "pause_on_hover": true,
+        "speed": 0.5,
+        "h_spacing": 30,
+        "v_spacing": 0,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_divider": false,
+        "divider_layout": "vertical",
+        "custom_class": ""
+      }
+    },
+    "feature_list_EWmb3m": {
+      "type": "feature-list",
+      "blocks": {
+        "feature_item_TDtWqA": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "truck",
+            "icon_style": "btn--secondary",
+            "text": "Spedizione gratuita"
+          }
+        },
+        "feature_item_bEzMqR": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "currency-circle-dollar",
+            "icon_style": "btn--secondary",
+            "text": "Reso entro 30 giorni"
+          }
+        },
+        "feature_item_GLraDd": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "seal-check",
+            "icon_style": "btn--secondary",
+            "text": "Pagamenti sicuri"
+          }
+        },
+        "feature_item_rcBfme": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "heart",
+            "icon_style": "btn--secondary",
+            "text": "Assistenza clienti 24 ore su 24"
+          }
+        }
+      },
+      "block_order": [
+        "feature_item_TDtWqA",
+        "feature_item_bEzMqR",
+        "feature_item_GLraDd",
+        "feature_item_rcBfme"
+      ],
+      "name": "Feature list",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "description": "",
+        "text_size": "text-base",
+        "item_alignment": "center",
+        "icon_size": "extra-medium",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main",
+    "testimonials_8JHr3L",
+    "image_with_text_NwdB6R",
+    "product_tabs_HNYxdJ",
+    "custom_liquid_PRCgzi",
+    "rich_text_GjhrBp",
+    "related-products",
+    "rich_text_7rBwdd",
+    "image_with_text_MgddA8",
+    "multicolumn_Mxt4d3",
+    "rich_text_CzJmCa",
+    "rich_text_aatrkW",
+    "collapsible_tabs_phAkEE",
+    "scrolling_promotion_WAekUk",
+    "feature_list_EWmb3m"
+  ]
+}
