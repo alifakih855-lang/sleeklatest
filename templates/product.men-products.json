@@ -335,7 +335,7 @@
         "heading": "I più venduti",
         "heading_size": "h1",
         "heading_highlight_style": "none",
-        "limit": 4,
+        "limit": 9,
         "columns": 4,
         "column_gap": "medium",
         "row_gap": "inherit",
