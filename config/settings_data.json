@@ -118,10 +118,10 @@
         "settings": {
           "primary_accent": "#353535",
           "border": "#ededed",
-          "text": "#030303",
-          "background": "#ffffff",
+          "text": "#000000",
+          "background": "#FFFFFF",
           "secondary_background": "#f6f2ee",
-          "button": "#054e4a",
+          "button": "#000000",
           "button_label": "#ffffff",
           "secondary_button": "#ffffff",
           "secondary_button_border": "#c5c2be",
