@@ -104,7 +104,7 @@
       ],
       "name": "t:sections.announcement-bar.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-inverse",
         "content_width": 30,
         "autoplay": true,
         "autoplay_speed": 5,
